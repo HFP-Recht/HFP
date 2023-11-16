@@ -5,7 +5,7 @@ tags:
 [[Ich kenne meine Rechte I]]
 [[Ich kenne meine Rechte II]]
 [[Ich kenne meine Rechte III]]
-[[Lernkarteien]]
+[[Themen/Lehrvertrag/Lernkarteien]]
 [[Formular Lehrvertrag.pdf]]
 
 ---
