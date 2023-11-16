@@ -1,3 +1,7 @@
+---
+tags:
+  - Rechtsgrundlagen
+---
 ## Theoretische Erklärung
 Absolute Rechte sind Rechte, die gegenüber jedermann wirksam sind. Sie umfassen **Eigentumsrechte, Persönlichkeitsrechte und Immaterialgüterrechte**. Im Gegensatz zu relativen Rechten, die nur zwischen bestimmten Personen wirken (wie Forderungsrechte), gelten absolute Rechte allgemein und sind gegen jeden Dritten durchsetzbar. Wesentliche **Rechtsgrundlagen** hierfür sind das Schweizer Zivilgesetzbuch (ZGB) und das Obligationenrecht (OR). Beispielsweise regelt das ZGB das Eigentumsrecht in Art. 641 ff.
 
