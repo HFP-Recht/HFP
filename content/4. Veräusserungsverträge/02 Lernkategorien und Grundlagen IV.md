@@ -1,0 +1,33 @@
+# Modul 1: Einführung in das Obligationenrecht
+
+## Lernziele
+- Verstehen der rechtlichen Grundlagen und Besonderheiten des Tauschvertrags nach Obligationenrecht.
+- Kenntnis der Analogien und Unterschiede zwischen Kauf- und Tauschvertrag.
+- Anwendung der Regeln für Tauschverträge in praktischen Fällen.
+
+## Einführung
+>[!info] 
+>Der Tauschvertrag, geregelt in Art. 237 ff. OR, ist eine spezielle Form des Kaufvertrags, bei dem anstelle eines Kaufpreises eine andere Sache zu Eigentum übertragen wird. Die meisten Regelungen des Kaufvertragsrechts sind analog anwendbar.
+
+## Schlüsselkategorien im Obligationenrecht
+- **Tauschvertrag**: Verständnis des Tauschvertrags als besondere Form des Kaufvertrags.
+- **Rechte und Pflichten bei Tauschverträgen**: Kenntnis der Verpflichtungen der Vertragspartner, die denen eines Verkäufers entsprechen.
+- **Gewährleistung und Entwehrung**: Verständnis der Optionen bei Sach- und Rechtsmängeln.
+
+## Beispiele aus den Gesetzen
+>[!question]- Wie werden Sachmängel im Rahmen eines Tauschvertrags behandelt?
+>Kurze Antwort: Im Falle von Sachmängeln kann entweder der Tauschgegenstand zurückverlangt oder Schadenersatz gefordert werden.
+>**[[OR#Art. 238]]**: Regelung zur Gewährleistung bei Tauschverträgen.
+
+## Von der Theorie zur Praxis
+- **Sachverhalt 1**: Ein Tauschvertrag über Grundstücke.
+- **Diskussion**: Analyse der Notwendigkeit einer öffentlichen Beurkundung gemäß Art. 237 OR in Verbindung mit Art. 216 OR.
+
+## Relevanz
+>[!info] 
+>Das Verständnis von Tauschverträgen ist wichtig, um die spezifischen Verpflichtungen und Rechte der Vertragsparteien zu erfassen, insbesondere im Zusammenhang mit Immobilientransaktionen.
+
+## Fazit:
+Am Ende dieses Moduls sollten Sie ein klares Verständnis des Tauschvertragsrechts haben und in der Lage sein, die spezifischen Regelungen und Anforderungen in praktischen Fällen anzuwenden.
+>[!info] 
+>Überprüfen Sie Ihr Wissen mit dem beigefügten Quiz und erkunden Sie das Lehrmittel für eine vertiefte Auseinandersetzung mit dem Thema.

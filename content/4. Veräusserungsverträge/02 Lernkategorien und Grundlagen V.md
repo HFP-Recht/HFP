@@ -1,0 +1,33 @@
+# Modul 1: Einführung in das Obligationenrecht
+
+## Lernziele
+- Verstehen der rechtlichen Grundlagen des Schenkungsvertrags nach schweizerischem Obligationenrecht.
+- Kenntnis der Haftung des Schenkers und der Formvorschriften bei Schenkungen.
+- Anwendung dieser Konzepte auf praktische Fälle.
+
+## Einführung
+>[!info] 
+>Der Schenkungsvertrag, geregelt in Art. 239 ff. OR, ist ein einseitiger Vertrag, bei dem nur der Schenker eine Leistung erbringt, ohne eine Gegenleistung zu erhalten. Dieser Vertragstyp hat besondere Regelungen bezüglich Haftung und Formvorschriften.
+
+## Schlüsselkategorien im Obligationenrecht
+- **Schenkungsvertrag**: Verständnis des Schenkungsvertrags als einseitigen Vertrag.
+- **Haftung des Schenkers**: Kenntnis der Haftung des Schenkers für Schäden und Mängel der geschenkten Sache.
+- **Formvorschriften bei Schenkungen**: Bewusstsein über die erforderlichen Formen für Schenkungsversprechen und die Übertragung des Eigentums.
+
+## Beispiele aus den Gesetzen
+>[!question]- Wie haftet der Schenker für Schäden, die aus der Schenkung entstehen?
+>Kurze Antwort: Der Schenker haftet nur bei absichtlicher oder grob fahrlässiger Schadenszufügung.
+>**[[OR#Art. 248]]**: Regelungen zur Haftung des Schenkers.
+
+## Von der Theorie zur Praxis
+- **Sachverhalt 1**: Ein Schenkungsversprechen für ein Grundstück.
+- **Diskussion**: Notwendigkeit der öffentlichen Beurkundung gemäß Art. 243 Absatz 2 OR.
+
+## Relevanz
+>[!info] 
+>Das Verständnis von Schenkungsverträgen ist wichtig, um die rechtlichen Verpflichtungen und Risiken bei der Übertragung von Eigentum ohne Gegenleistung zu verstehen.
+
+## Fazit:
+Am Ende dieses Moduls sollten Sie ein klares Verständnis des Schenkungsvertragsrechts haben und in der Lage sein, die spezifischen Regelungen und Anforderungen in praktischen Fällen anzuwenden.
+>[!info] 
+>Überprüfen Sie Ihr Wissen mit dem beigefügten Quiz und erkunden Sie das Lehrmittel für eine vertiefte Auseinandersetzung mit dem Thema.

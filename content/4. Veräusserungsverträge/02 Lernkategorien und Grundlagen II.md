@@ -1,0 +1,37 @@
+# Modul 1: Einführung in das Obligationenrecht
+
+## Lernziele
+- Verstehen der grundlegenden Prinzipien des Kaufvertragsrechts im Obligationenrecht.
+- Erkennen der wichtigsten Rechte und Pflichten im Kaufvertragsrecht.
+- Einblick in die gesetzlichen Regelungen bezüglich des Kaufvertragsrechts.
+
+## Einführung
+>[!info] 
+>Kaufvertragsrecht im Obligationenrecht ist wesentlich für Verträge über Eigentumsübertragung. Art. 184 OR legt fest, dass beim Kaufvertrag der Verkäufer sich zur Übertragung des Eigentums verpflichtet und der Käufer zur Entrichtung des Kaufpreises. Bei internationalen Verhältnissen tritt oft das Wiener Kaufrecht in Kraft.
+
+## Schlüsselkategorien im Obligationenrecht
+- **Vertragsgestaltung und -abschluss**: Definition und Bedeutung des Kaufvertrags gemäß Art. 184 OR.
+- **Rechte und Pflichten im Kaufvertragsrecht**: Verständnis des gegenseitigen Austauschverhältnisses von Waren- und Kaufpreisobligation.
+- **Kaufgegenstand**: Erkenntnis, dass nicht nur körperliche Gegenstände, sondern auch Forderungen, Vermögen und Erbschaften Kaufgegenstände sein können.
+- **Austauschverhältnis im Kaufvertragsrecht**: Verständnis der Haupt- und Nebenpflichten im Kaufvertrag.
+
+## Beispiele aus den Gesetzen
+>[!question]- Was sind die Hauptpflichten im Kaufvertragsrecht?
+>Kurze Antwort: Im Kaufvertrag verpflichtet sich der Verkäufer, dem Käufer das Eigentum an der Sache zu verschaffen, und der Käufer verpflichtet sich, den Kaufpreis zu zahlen.
+>**[[OR#Art. 184]]**: Grundlegende Definition des Kaufvertrags.
+
+## Von der Theorie zur Praxis
+- **Sachverhalt 1**: X kauft von Y diverse Gegenstände und Rechte, darunter ein Haus, Gartengeräte und ein Baurecht.
+- **Diskussion**: Analyse der unterschiedlichen Vertragselemente und Pflichten, die sich aus diesem komplexen Kaufvertrag ergeben.
+
+- **Sachverhalt 2**: X kauft von Y ein Unternehmen.
+- **Diskussion**: Besprechung der speziellen Regeln, die für den Kauf von Unternehmen gelten.
+
+## Relevanz
+>[!info] 
+>Das Verständnis des Kaufvertragsrechts ist zentral für Transaktionen im Geschäftsleben. Kenntnisse darüber, wie Kaufverträge gestaltet werden und welche Rechte und Pflichten entstehen, sind unerlässlich.
+
+## Fazit:
+Am Ende dieses Moduls sollten Sie die Grundlagen des Kaufvertragsrechts im Obligationenrecht verstehen und in der Lage sein, komplexe Kaufverträge zu analysieren.
+>[!info] 
+>Überprüfen Sie Ihr Wissen mit dem beigefügten Quiz und vertiefen Sie Ihr Verständnis mit weiterführenden Lehrmaterialien.

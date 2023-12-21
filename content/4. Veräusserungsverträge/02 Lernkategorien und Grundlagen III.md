@@ -1,0 +1,35 @@
+# Modul 1: Einführung in das Obligationenrecht
+
+## Lernziele
+- Verstehen des Übergangs von Nutzen und Gefahr im Kaufvertragsrecht.
+- Kenntnis der Regelungen zu Vorverträgen, Vorkaufs- und Kaufrechten.
+- Anwendung dieser Konzepte in praktischen Beispielen.
+
+## Einführung
+>[!info] 
+>Im Kaufvertragsrecht ist der Übergang von Nutzen und Gefahr ein zentrales Element. Art. 185 OR regelt, dass diese normalerweise mit Vertragsabschluss vom Verkäufer auf den Käufer übergehen. Vorverträge und besondere Kaufrechtsformen haben spezifische Regelungen und Formvorschriften.
+
+## Schlüsselkategorien im Obligationenrecht
+- **Übergang von Nutzen und Gefahr**: Verständnis, wann und unter welchen Umständen Nutzen und Gefahr übergehen.
+- **Vorverträge, Vorkaufsrechte und Kaufrechte**: Kenntnis der unterschiedlichen Vertragsformen und ihrer rechtlichen Anforderungen.
+
+## Beispiele aus den Gesetzen
+>[!question]- Was geschieht, wenn eine Kaufsache vor Übergabe untergeht?
+>Kurze Antwort: In der Regel trägt der Käufer das Risiko für den zufälligen Untergang der Sache nach Vertragsabschluss, gemäß Art. 185 OR.
+>**[[OR#Art. 185]]**: Regelung zum Übergang von Nutzen und Gefahr.
+
+## Von der Theorie zur Praxis
+- **Sachverhalt 1**: Ein Hund stirbt zufällig vor der Übergabe. 
+- **Diskussion**: Analyse, ob und inwieweit der Käufer den Kaufpreis zahlen muss.
+
+- **Sachverhalt 2**: Verschiedene Arten von Verträgen bezüglich eines Grundstücks.
+- **Diskussion**: Bestimmung der Vertragsart und der erforderlichen Formvorschriften für die jeweiligen Verträge.
+
+## Relevanz
+>[!info] 
+>Das Verständnis dieser Konzepte ist wichtig, um Risiken im Kaufvertragsrecht zu verstehen und um die korrekte Vertragsgestaltung bei Grundstücksgeschäften sicherzustellen.
+
+## Fazit:
+Am Ende dieses Moduls sollten Sie ein klares Verständnis des Übergangs von Nutzen und Gefahr im Kaufvertragsrecht sowie der speziellen Vertragsformen haben.
+>[!info] 
+>Überprüfen Sie Ihr Wissen mit dem beigefügten Quiz und erkunden Sie das Lehrmittel für eine vertiefte Auseinandersetzung mit dem Thema.
