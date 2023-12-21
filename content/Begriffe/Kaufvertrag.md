@@ -20,8 +20,8 @@ Wichtig ist, dass bei jedem Kaufvertrag die **Vertragsfreiheit** gilt, d.h., die
 2. **Gattungskauf**: Der gleiche Meister bestellt mehrere standardisierte Motoren für Traktoren von einem Hersteller. Dies ist ein Gattungskauf, da die Motoren nur nach ihrer Art und Typ spezifiziert sind. Der Hersteller kann jeden Motor dieser Art liefern, und der Meister muss den vereinbarten Gesamtpreis entrichten.
 
 ## FAQ
-1. **Frage**: Was sind die Hauptpflichten eines Käufers und eines Verkäufers in einem Kaufvertrag nach OR?
-   **Antwort**: Der Käufer ist verpflichtet, den Kaufpreis zu zahlen, und hat das Recht, die Ware zu erhalten. Der Verkäufer muss die Ware übergeben und das Eigentum daran verschaffen und hat das Recht, den Kaufpreis zu fordern.
+>[!question]- 1. **Frage**: Was sind die Hauptpflichten eines Käufers und eines Verkäufers in einem Kaufvertrag nach OR?
+>**Antwort**: Der Käufer ist verpflichtet, den Kaufpreis zu zahlen, und hat das Recht, die Ware zu erhalten. Der Verkäufer muss die Ware übergeben und das Eigentum daran verschaffen und hat das Recht, den Kaufpreis zu fordern.
 
 2. **Frage**: Was ist der Unterschied zwischen einem Spezieskauf und einem Gattungskauf?
    **Antwort**: Beim Spezieskauf wird eine individuell bestimmte Sache gekauft, beim Gattungskauf hingegen eine Sache, die nur der Art nach bestimmt ist.
