@@ -11,10 +11,10 @@
 >>[!todo]- Antwort
 >>Betroffene Rechtsgebiete sind das Obligationenrecht und das Wechselrecht. Relevant sind [[OR#Art. 184]] für Eigentumsübertragung, [[OR#Art. 163]] für Zession, [[OR#Art. 115]] für Schuldübernahme, und das Wechselgesetz für die Übertragung des Wechsels.
 
->[!info] **3. Regel analysieren**
->_Welche rechtlichen Voraussetzungen, sogenannte Tatbestandsmerkmale, müssen erfüllt sein? Welches sind die Rechtsfolgen davon?_
->>[!todo]- Antwort
->>Für die Eigentumsübertragung ist Übergabe nötig ([[OR#Art. 184]]). Zession erfordert einen Vertrag zwischen Zedent und Zessionar ([[OR#Art. 163]]), und die Schuldübernahme bedarf der Zustimmung des Gläubigers ([[OR#Art. 115]]). Für die Übertragung eines Wechsels ist ein Indossament und die Übergabe des Wechseldokuments erforderlich.
+**3. Regel analysieren**
+_Welche rechtlichen Voraussetzungen, sogenannte Tatbestandsmerkmale, müssen erfüllt sein? Welches sind die Rechtsfolgen davon?_
+>[!todo]- Antwort
+>Für die Eigentumsübertragung ist Übergabe nötig ([[OR#Art. 184]]). Zession erfordert einen Vertrag zwischen Zedent und Zessionar ([[OR#Art. 163]]), und die Schuldübernahme bedarf der Zustimmung des Gläubigers ([[OR#Art. 115]]). Für die Übertragung eines Wechsels ist ein Indossament und die Übergabe des Wechseldokuments erforderlich.
 
 >[!info] **4. Regel auf Sachverhalt anwenden und Rechtsfolge bestimmen**
 >_Sind die Voraussetzungen im Einzelfall erfüllt?_
