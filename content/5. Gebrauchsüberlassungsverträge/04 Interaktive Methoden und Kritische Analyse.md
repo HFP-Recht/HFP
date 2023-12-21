@@ -1,19 +1,28 @@
 >[!info] Sachverhalt
-Herr Müller, ein Landmaschinenmechanikermeister, plant die Übernahme eines bestehenden Landmaschinenhandels von Herrn Schmidt. Im Kauf enthalten sind diverse Landmaschinen, ein Firmenfahrzeug, ein langfristiges Pachtverhältnis für zusätzliche Lagerflächen und die Übernahme von Forderungen und Verbindlichkeiten gegenüber Dritten. Herr Müller übernimmt zudem die Verantwortung für zwei laufende Leasingverträge für Landmaschinen sowie eine Bürgschaft für einen Kredit, den Herr Schmidt bei der Bank hat.
+X. kauft von Y. ein Haus mit Gartengeräten und Möblierung, ein Auto, ein dauerndes Baurecht für Garagen auf einem Grundstück des Nachbarn, eine Schadenersatzforderung gegen A., und übernimmt eine Schadenersatzpflicht gegen B. Zudem übernimmt X. einen Wechsel gegen C. und einen Wechsel mit Rektaklausel gegenüber D.
 
-# Lösung
-Schritt | Fragestellungen | Beispiel
---- | --- | ---
-Sachverhalt analysieren | Was ist passiert? Wer ist beteiligt? Wer macht was geltend? Welche rechtlichen Fragen stellen sich? | Herr Müller kauft von Herrn Schmidt einen Landmaschinenhandel inklusive Maschinen, Fahrzeug, Pachtverhältnis, Forderungen, Verbindlichkeiten, Leasingverträge und eine Bürgschaft.
-Relevante Regel finden | Welches Rechtsgebiet ist betroffen? In welcher Rechtsvorschrift ist die Frage geregelt? (OR, ZGB, BV) | Die Übertragung von beweglichem Eigentum (Maschinen, Fahrzeug) wird durch [[OR#Art. 714]] und [[OR#Art. 929]] geregelt. Das Pachtverhältnis fällt unter [[OR#Art. 275]]. Die Übernahme von Forderungen und Verbindlichkeiten betrifft die Zession ([[OR#Art. 164]]) und Schuldübernahme ([[OR#Art. 175]]). Für Leasingverträge ist [[OR#Art. 305c]] relevant, und die Bürgschaft wird durch [[OR#Art. 492]] reguliert.
-Regel analysieren | Welche rechtlichen Voraussetzungen, sogenannte Tatbestandsmerkmale, müssen erfüllt sein? Welches sind die Rechtsfolgen davon? | Für die Übertragung von beweglichem Eigentum ist die Übergabe erforderlich. Das Pachtverhältnis erfordert eine schriftliche Vereinbarung. Die Zession von Forderungen verlangt eine entsprechende Vereinbarung, während die Schuldübernahme die Zustimmung des Gläubigers benötigt. Leasingverträge bedürfen der Zustimmung des Leasinggebers. Eine Bürgschaft muss schriftlich erfolgen.
-Regel auf Sachverhalt anwenden und Rechtsfolge bestimmen | Sind die Voraussetzungen im Einzelfall erfüllt? | Herr Müller muss die Landmaschinen und das Fahrzeug physisch übernehmen. Das Pachtverhältnis erfordert eine schriftliche Vereinbarung mit dem Verpächter. Die Übernahme der Forderungen und Verbindlichkeiten muss durch Zession bzw. Schuldübernahme mit Zustimmung der Beteiligten formalisiert werden. Die Übernahme der Leasingverträge erfordert die Zustimmung der Leasinggesellschaft, und die Bürgschaft muss schriftlich bestätigt werden.
+>[!Todo]- Lösung
+>**1. Sachverhalt analysieren**
+>_Was ist passiert? Wer ist beteiligt? Wer macht was geltend? Welche rechtlichen Fragen stellen sich?_ 
+X. hat von Y. verschiedene Vermögenswerte gekauft: ein Haus mit Zubehör, ein Auto, ein Baurecht, eine Forderung und eine Verbindlichkeit, sowie Wechselrechte. Die Frage ist, wie der Kaufvertrag für diese unterschiedlichen Vermögenswerte rechtlich vollzogen werden muss.
 
->[!question]- Wie sind die rechtlichen Schritte zur Übernahme der Landmaschinen und des Firmenfahrzeugs zu gestalten?
->Die Übernahme erfordert die Übergabe der Landmaschinen und des Fahrzeugs, was einen physischen Transfer beinhaltet. Dieser Schritt ist entscheidend, um das Eigentum rechtsgültig zu übertragen.
+>**2. Relevante Regel finden**
+_Welches Rechtsgebiet ist betroffen? In welcher Rechtsvorschrift ist die Frage geregelt? (OR, ZGB, BV)_Was
+Für den Kauf von Haus, Gartengeräten, Möblierung, und Auto ist das Schweizer Obligationenrecht ([[OR#Art. 216]] und [[OR#Art. 243]]) relevant. Das Baurecht fällt unter das Zivilgesetzbuch ([[ZGB#Art. 779]]). Die Übertragung der Schadenersatzforderung und -pflicht sowie der Wechselrechte werden ebenfalls durch das Obligationenrecht ([[OR#Art. 164]] und [[OR#Art. 305]]) geregelt.
 
->[!question]- Welche rechtlichen Aspekte müssen bei der Übernahme des Pachtverhältnisses beachtet werden?
->Es ist eine schriftliche Vereinbarung mit dem Verpächter erforderlich, um das Pachtverhältnis auf Herrn Müller zu übertragen. Diese Vereinbarung muss den rechtlichen Anforderungen des OR entsprechen.
+>**3. Regel analysieren**
+>_Welche rechtlichen Voraussetzungen, sogenannte Tatbestandsmerkmale, müssen erfüllt sein? Welches sind die Rechtsfolgen davon?_
+Für das Haus, Gartengeräte und Möblierung ist eine Eintragung im Grundbuch erforderlich. Das Auto erfordert eine Übergabe. Das Baurecht bedingt eine Eintragung im Grundbuch oder eine Neubegründung. Die Schadenersatzforderung erfordert eine Zession, die Pflichtübernahme die Zustimmung des B. Wechselrechte erfordern ein Indossament und die Übergabe des Wechsels. Bei einem Wechsel mit Rektaklausel ist zusätzlich eine Zession notwendig.
 
->[!question]- Welche Bedingungen müssen für die gültige Übernahme der Bürgschaft erfüllt sein?
->Die Bürgschaft muss schriftlich bestätigt werden. Dies beinhaltet die Zustimmung von Herrn Schmidt, Herrn Müller und der Bank. Die schriftliche Form ist für die Gültigkeit der Bürgschaft essenziell.
+>**4. Regel auf Sachverhalt anwenden und Rechtsfolge bestimmen**
+>_Sind die Voraussetzungen im Einzelfall erfüllt?_
+Für das Haus, Gartengeräte und Möblierung muss X. eine Eintragung im Grundbuch vornehmen. Das Auto muss ihm übergeben werden. Das Baurecht erfordert entweder eine Eintragung im Grundbuch oder eine Neubegründung. Die Schadenersatzforderung gegen A. muss durch eine Zession übertragen werden, und die Pflicht gegenüber B. erfordert dessen Zustimmung. Für die Wechsel gegen C. und D. sind Indossament und Besitzübergabe, sowie bei D. zusätzlich eine Zession erforderlich.
+
+>[!question]- Welche rechtlichen Konsequenzen ergeben sich, wenn das Baurecht nicht im Grundbuch eingetragen ist?
+>Die Neubegründung des Baurechts zu Gunsten von X. als Dienstbarkeit ist erforderlich. Ohne diese Neubegründung oder Eintragung im Grundbuch wäre die Übertragung des Baurechts nicht gültig.
+
+>[!question]- Was passiert, wenn B. der Schuldübernahme nicht zustimmt?
+>Ohne Zustimmung von B. ist die Übertragung der Schadenersatzpflicht rechtlich nicht wirksam. X. könnte dann nicht als Schuldner gegenüber B. auftreten.
+
+>[!question]- Warum ist bei einem Wechsel mit Rektaklausel zusätzlich eine Zession erforderlich?
+>Ein Wechsel mit Rektaklausel ist ein Namenpapier und kann nicht allein durch Indossament übertragen werden. Die zusätzliche Zession ist notwendig, um das Recht aus dem Wechsel rechtswirksam zu übertragen.
