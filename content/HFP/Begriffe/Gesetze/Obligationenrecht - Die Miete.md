@@ -255,7 +255,7 @@ Hat der Mieter durch den Mangel Schaden erlitten, so muss ihm der Vermieter daf�
 
 [5. Übernahme des Rechtsstreits](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8/chap_1/lvl_G/lvl_II/lvl_5)
 
-###### Art. 259 _f_
+###### Art. 259f
 
 Erhebt ein Dritter einen Anspruch auf die Sache, der sich mit den Rechten des Mieters nicht verträgt, so muss der Vermieter auf Anzeige des Mieters hin den Rechtsstreit übernehmen.
 
