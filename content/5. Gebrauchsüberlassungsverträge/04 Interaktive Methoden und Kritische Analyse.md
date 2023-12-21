@@ -2,6 +2,7 @@
 >Klaus ist Eigentümer eines kleinen Ladengeschäfts und möchte dieses an seine langjährige Mitarbeiterin, Sarah, verkaufen. Im Geschäft befinden sich verschiedene Einrichtungsgegenstände, ein Lieferwagen und ein Laptop. Zusätzlich hat Klaus eine Forderung gegen einen Kunden, Herrn Müller, wegen einer unbezahlten Rechnung und schuldet seiner Lieferantin Frau Berger noch eine offene Rechnung. Sarah will das Geschäft inklusive aller Gegenstände und finanziellen Forderungen und Verbindlichkeiten übernehmen. Wie muss der Kaufvertrag jeweils vollzogen werden?
 
 >[!note]-
+>
 >Schritt | Fragestellungen | Beispiel
 >--- | --- | ---
 >1. Sachverhalt analysieren | Was ist passiert? Wer ist beteiligt? Wer macht was geltend? Welche rechtlichen Fragen stellen sich? | Klaus verkauft sein Ladengeschäft an Sarah, inklusive Einrichtungsgegenständen, einem Lieferwagen, einem Laptop, einer Forderung gegen einen Kunden und einer Schuldenverpflichtung gegenüber einer Lieferantin.
