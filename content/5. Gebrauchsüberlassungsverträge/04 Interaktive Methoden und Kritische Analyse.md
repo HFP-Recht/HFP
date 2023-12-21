@@ -1,19 +1,19 @@
 >[!info] Sachverhalt
-X. verkauft an Z. ein Restaurant mit kompletter Küchenausstattung und Einrichtung, ein Lieferfahrzeug sowie ein exklusives Nutzungsrecht für einen Parkplatz auf einem benachbarten Grundstück. Gleichzeitig verkauft er ihm eine Forderung gegen E. aus einem Dienstleistungsvertrag und übernimmt eine damit verbundene Verbindlichkeit gegenüber F. Außerdem überträgt X. eine Anweisung gegen G. und eine gezogene Anweisung mit Verbot der Weitergabe gegen H. Wie sollte der Kaufvertrag in jedem Fall gestaltet werden, basierend auf dem gelernten Recht?
+Herr Müller, ein Landmaschinenmechanikermeister, plant die Übernahme eines bestehenden Landmaschinenhandels von Herrn Schmidt. Im Kauf enthalten sind diverse Landmaschinen, ein Firmenfahrzeug, ein langfristiges Pachtverhältnis für zusätzliche Lagerflächen und die Übernahme von Forderungen und Verbindlichkeiten gegenüber Dritten. Herr Müller übernimmt zudem die Verantwortung für zwei laufende Leasingverträge für Landmaschinen sowie eine Bürgschaft für einen Kredit, den Herr Schmidt bei der Bank hat.
 
 # Lösung
 Schritt | Fragestellungen | Beispiel
 --- | --- | ---
-Sachverhalt analysieren | Was ist passiert? Wer ist beteiligt? Wer macht was geltend? Welche rechtlichen Fragen stellen sich? | X. verkauft an Z. ein Restaurant mit Ausstattung, ein Lieferfahrzeug, ein Nutzungsrecht, eine Forderung und eine Verbindlichkeit sowie zwei Anweisungen. Es geht um die korrekte rechtliche Gestaltung des Kaufvertrags.
-Relevante Regel finden | Welches Rechtsgebiet ist betroffen? In welcher Rechtsvorschrift ist die Frage geregelt? (OR, ZGB, BV) | Die relevante Rechtsregelung findet sich im Schweizer Obligationenrecht (OR), speziell im Sachenrecht und Schuldrecht.
-Regel analysieren | Welche rechtlichen Voraussetzungen, sogenannte Tatbestandsmerkmale, müssen erfüllt sein? Welches sind die Rechtsfolgen davon? | Für das Restaurant mit Ausstattung ist eine Übergabe und Eintragung im Grundbuch erforderlich. Das Lieferfahrzeug wird durch Besitzübergabe übertragen. Das Nutzungsrecht erfordert eine Dienstbarkeitseintragung im Grundbuch. Die Forderung gegen E. wird durch Zession übertragen, die Verbindlichkeit durch Schuldübernahme mit Zustimmung von F. Anweisungen werden durch Indossament und Besitzübertragung oder bei der Rektaklausel zusätzlich durch Zession übertragen.
-Regel auf Sachverhalt anwenden und Rechtsfolge bestimmen | Sind die Voraussetzungen im Einzelfall erfüllt? | Die Gestaltung des Kaufvertrags muss den spezifischen Anforderungen für jede übertragene Sache und jedes Recht entsprechen, um rechtlich wirksam zu sein.
+Sachverhalt analysieren | Was ist passiert? Wer ist beteiligt? Wer macht was geltend? Welche rechtlichen Fragen stellen sich? | Herr Müller kauft von Herrn Schmidt einen Landmaschinenhandel inklusive Maschinen, Fahrzeug, Pachtverhältnis, Forderungen, Verbindlichkeiten, Leasingverträge und eine Bürgschaft.
+Relevante Regel finden | Welches Rechtsgebiet ist betroffen? In welcher Rechtsvorschrift ist die Frage geregelt? (OR, ZGB, BV) | Die Übertragung von beweglichem Eigentum (Maschinen, Fahrzeug) wird durch [[OR#Art. 714]] und [[OR#Art. 929]] geregelt. Das Pachtverhältnis fällt unter [[OR#Art. 275]]. Die Übernahme von Forderungen und Verbindlichkeiten betrifft die Zession ([[OR#Art. 164]]) und Schuldübernahme ([[OR#Art. 175]]). Für Leasingverträge ist [[OR#Art. 305c]] relevant, und die Bürgschaft wird durch [[OR#Art. 492]] reguliert.
+Regel analysieren | Welche rechtlichen Voraussetzungen, sogenannte Tatbestandsmerkmale, müssen erfüllt sein? Welches sind die Rechtsfolgen davon? | Für die Übertragung von beweglichem Eigentum ist die Übergabe erforderlich. Das Pachtverhältnis erfordert eine schriftliche Vereinbarung. Die Zession von Forderungen verlangt eine entsprechende Vereinbarung, während die Schuldübernahme die Zustimmung des Gläubigers benötigt. Leasingverträge bedürfen der Zustimmung des Leasinggebers. Eine Bürgschaft muss schriftlich erfolgen.
+Regel auf Sachverhalt anwenden und Rechtsfolge bestimmen | Sind die Voraussetzungen im Einzelfall erfüllt? | Herr Müller muss die Landmaschinen und das Fahrzeug physisch übernehmen. Das Pachtverhältnis erfordert eine schriftliche Vereinbarung mit dem Verpächter. Die Übernahme der Forderungen und Verbindlichkeiten muss durch Zession bzw. Schuldübernahme mit Zustimmung der Beteiligten formalisiert werden. Die Übernahme der Leasingverträge erfordert die Zustimmung der Leasinggesellschaft, und die Bürgschaft muss schriftlich bestätigt werden.
 
->[!question]- 'Wie ist der Kaufvertrag für das Restaurant und die zugehörige Ausstattung rechtlich zu gestalten?'
->{Für das Restaurant und die zugehörige Ausstattung ist eine Übergabe und Eintragung im Grundbuch erforderlich, da sie als unbewegliche Sache und deren Zugehör behandelt werden.}
+>[!question]- Wie sind die rechtlichen Schritte zur Übernahme der Landmaschinen und des Firmenfahrzeugs zu gestalten?
+>Die Übernahme erfordert die Übergabe der Landmaschinen und des Fahrzeugs, was einen physischen Transfer beinhaltet. Dieser Schritt ist entscheidend, um das Eigentum rechtsgültig zu übertragen.
 
->[!question]- 'Welche rechtlichen Schritte sind für die Übertragung des Lieferfahrzeugs notwendig?'
->{Das Lieferfahrzeug wird durch eine einfache Besitzübergabe übertragen, entsprechend den Regeln des Besitzrechts.}
+>[!question]- Welche rechtlichen Aspekte müssen bei der Übernahme des Pachtverhältnisses beachtet werden?
+>Es ist eine schriftliche Vereinbarung mit dem Verpächter erforderlich, um das Pachtverhältnis auf Herrn Müller zu übertragen. Diese Vereinbarung muss den rechtlichen Anforderungen des OR entsprechen.
 
->[!question]- 'Wie wird das exklusive Nutzungsrecht für den Parkplatz rechtlich übertragen?'
->{Das exklusive Nutzungsrecht wird als Dienstbarkeit im Grundbuch eingetragen, um die Rechte von Z. zu sichern.}
+>[!question]- Welche Bedingungen müssen für die gültige Übernahme der Bürgschaft erfüllt sein?
+>Die Bürgschaft muss schriftlich bestätigt werden. Dies beinhaltet die Zustimmung von Herrn Schmidt, Herrn Müller und der Bank. Die schriftliche Form ist für die Gültigkeit der Bürgschaft essenziell.
