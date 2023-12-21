@@ -16,7 +16,7 @@
 ## Beispiele aus den Gesetzen:
 >[!question] 
 >**Frage**: Was sind die Hauptpflichten eines Vermieters im Mietrecht?
-- [[Obligationenrecht - Die Miete#Art. 259f]]
+- [[OR#Art. 312]]
 - **Art. 257d Absatz 1 OR**: Beschreibung der Pflichten des Vermieters, wie die Überlassung und Instandhaltung der Mietsache.
 
 >[!question] 
