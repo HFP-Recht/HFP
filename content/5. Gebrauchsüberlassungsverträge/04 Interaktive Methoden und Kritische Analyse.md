@@ -1,28 +1,32 @@
->[!info] Sachverhalt
-X. kauft von Y. ein Haus mit Gartengeräten und Möblierung, ein Auto, ein dauerndes Baurecht für Garagen auf einem Grundstück des Nachbarn, eine Schadenersatzforderung gegen A., und übernimmt eine Schadenersatzpflicht gegen B. Zudem übernimmt X. einen Wechsel gegen C. und einen Wechsel mit Rektaklausel gegenüber D.
+>[!info] **Sachverhalt**
+>K. möchte von L. ein Gewerbegebäude mit kompletter Büroausstattung und ein angrenzendes Grundstück erwerben. Zusätzlich beinhaltet der Kauf eine Forderung gegen M. aus einem Darlehensvertrag sowie die Übernahme einer Bürgschaft gegenüber N. Des Weiteren möchte K. von L. einen Schuldschein gegen O. sowie einen Wechsel mit Rektaklausel gegen P. erwerben. Es soll geklärt werden, wie der Kaufvertrag in diesen verschiedenen Aspekten rechtlich zu handhaben ist.
 
->[!Todo]- Lösung
->**1. Sachverhalt analysieren**
->_Was ist passiert? Wer ist beteiligt? Wer macht was geltend? Welche rechtlichen Fragen stellen sich?_ 
-X. hat von Y. verschiedene Vermögenswerte gekauft: ein Haus mit Zubehör, ein Auto, ein Baurecht, eine Forderung und eine Verbindlichkeit, sowie Wechselrechte. Die Frage ist, wie der Kaufvertrag für diese unterschiedlichen Vermögenswerte rechtlich vollzogen werden muss.
+## Lösung
+>[!info] **1. Sachverhalt analysieren**
+>_Was ist passiert? Wer ist beteiligt? Wer macht was geltend? Welche rechtlichen Fragen stellen sich?_
+>>[!todo]- Antwort
+>>K. beabsichtigt, von L. verschiedene Vermögenswerte zu erwerben, die sowohl bewegliche als auch unbewegliche Güter sowie Forderungen und Verbindlichkeiten umfassen. Es müssen die rechtlichen Anforderungen für den Erwerb eines Gewerbegebäudes, eines Grundstücks, einer Forderung, einer Bürgschaft, eines Schuldscheins und eines Wechsels mit Rektaklausel ermittelt werden.
 
->**2. Relevante Regel finden**
-_Welches Rechtsgebiet ist betroffen? In welcher Rechtsvorschrift ist die Frage geregelt? (OR, ZGB, BV)_Was
-Für den Kauf von Haus, Gartengeräten, Möblierung, und Auto ist das Schweizer Obligationenrecht ([[OR#Art. 216]] und [[OR#Art. 243]]) relevant. Das Baurecht fällt unter das Zivilgesetzbuch ([[ZGB#Art. 779]]). Die Übertragung der Schadenersatzforderung und -pflicht sowie der Wechselrechte werden ebenfalls durch das Obligationenrecht ([[OR#Art. 164]] und [[OR#Art. 305]]) geregelt.
+>[!info] **2. Relevante Regel finden**
+>_Welches Rechtsgebiet ist betroffen? In welcher Rechtsvorschrift ist die Frage geregelt? (OR, ZGB, BV)_
+>>[!todo]- Antwort
+>>Für das Gewerbegebäude und das Grundstück ist das [[ZGB#Art. 655]] und [[ZGB#Art. 656]] maßgeblich. Die Forderung wird durch das [[OR#Art. 164]] geregelt. Die Bürgschaft unterliegt dem [[OR#Art. 492]]. Für den Schuldschein gilt [[OR#Art. 17]] und für den Wechsel mit Rektaklausel das [[OR#Art. 1102]].
 
->**3. Regel analysieren**
+>[!info] **3. Regel analysieren**
 >_Welche rechtlichen Voraussetzungen, sogenannte Tatbestandsmerkmale, müssen erfüllt sein? Welches sind die Rechtsfolgen davon?_
-Für das Haus, Gartengeräte und Möblierung ist eine Eintragung im Grundbuch erforderlich. Das Auto erfordert eine Übergabe. Das Baurecht bedingt eine Eintragung im Grundbuch oder eine Neubegründung. Die Schadenersatzforderung erfordert eine Zession, die Pflichtübernahme die Zustimmung des B. Wechselrechte erfordern ein Indossament und die Übergabe des Wechsels. Bei einem Wechsel mit Rektaklausel ist zusätzlich eine Zession notwendig.
+>>[!todo]- Antwort
+>>Für das Gewerbegebäude und das Grundstück ist eine Eintragung im Grundbuch erforderlich. Die Übertragung der Forderung erfordert eine Zession. Die Bürgschaftsübernahme bedarf der Zustimmung des Gläubigers N. Der Schuldschein wird durch Übertragung des Besitzes und ggf. einer Zession übertragen. Der Wechsel mit Rektaklausel erfordert die Übergabe des Wechsels sowie eine Zession.
 
->**4. Regel auf Sachverhalt anwenden und Rechtsfolge bestimmen**
+>[!info] **4. Regel auf Sachverhalt anwenden und Rechtsfolge bestimmen**
 >_Sind die Voraussetzungen im Einzelfall erfüllt?_
-Für das Haus, Gartengeräte und Möblierung muss X. eine Eintragung im Grundbuch vornehmen. Das Auto muss ihm übergeben werden. Das Baurecht erfordert entweder eine Eintragung im Grundbuch oder eine Neubegründung. Die Schadenersatzforderung gegen A. muss durch eine Zession übertragen werden, und die Pflicht gegenüber B. erfordert dessen Zustimmung. Für die Wechsel gegen C. und D. sind Indossament und Besitzübergabe, sowie bei D. zusätzlich eine Zession erforderlich.
+>>[!todo]- Antwort
+>>K. muss sicherstellen, dass die Eintragungen für das Gewerbegebäude und das Grundstück im Grundbuch vorgenommen werden. Für die Forderung ist eine schriftliche Zessionsvereinbarung notwendig. Die Bürgschaftsübernahme erfordert die Zustimmung von N. Schuldschein und Wechsel mit Rektaklausel benötigen eine physische Übergabe und ggf. eine schriftliche Zessionsvereinbarung.
 
->[!question]- Welche rechtlichen Konsequenzen ergeben sich, wenn das Baurecht nicht im Grundbuch eingetragen ist?
->Die Neubegründung des Baurechts zu Gunsten von X. als Dienstbarkeit ist erforderlich. Ohne diese Neubegründung oder Eintragung im Grundbuch wäre die Übertragung des Baurechts nicht gültig.
+## Diskussionsfragen
+>[!question] Welche Risiken und rechtlichen Herausforderungen könnten sich bei der Übernahme der Bürgschaft ergeben, und wie könnte K. diese adressieren?
+>>[!todo]- Antwort
+>>Mögliche Risiken beinhalten die Ablehnung der Bürgschaftsübernahme durch N., potenzielle Haftung für K., und Unklarheiten in den Bürgschaftsbedingungen. K. könnte dies durch klare Kommunikation mit N., rechtliche Beratung und sorgfältige Prüfung der Bürgschaftsbedingungen adressieren.
 
->[!question]- Was passiert, wenn B. der Schuldübernahme nicht zustimmt?
->Ohne Zustimmung von B. ist die Übertragung der Schadenersatzpflicht rechtlich nicht wirksam. X. könnte dann nicht als Schuldner gegenüber B. auftreten.
-
->[!question]- Warum ist bei einem Wechsel mit Rektaklausel zusätzlich eine Zession erforderlich?
->Ein Wechsel mit Rektaklausel ist ein Namenpapier und kann nicht allein durch Indossament übertragen werden. Die zusätzliche Zession ist notwendig, um das Recht aus dem Wechsel rechtswirksam zu übertragen.
+>[!question] Wie könnte K. sicherstellen, dass die Übertragung des Schuldscheins und des Wechsels mit Rektaklausel effektiv und rechtlich korrekt erfolgt?
+>>[!todo]- Antwort
+>>K. sollte die physische Übergabe des Schuldscheins und des Wechsels sicherstellen und eine schriftliche Zessionsvereinbarung vorbereiten
