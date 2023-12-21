@@ -1,0 +1,38 @@
+## Theoretische Erklärung
+
+Der **Übergang von Nutzen und Gefahr** im Kaufvertragsrecht ist ein zentraler Aspekt, der regelt, ab wann der Käufer die Nutzungen und Risiken der gekauften Sache trägt. Laut [[OR#Art. 185]] geht die Gefahr auf den Käufer über, sobald der Verkäufer die Sache dem Käufer übergeben hat. Dies bedeutet, dass ab diesem Zeitpunkt der Käufer für Schäden oder den Verlust der Sache verantwortlich ist. Gleichzeitig erhält der Käufer mit der Übergabe auch das Recht, Nutzen aus der Sache zu ziehen, wie z.B. Einnahmen aus Vermietung oder Verkauf.
+
+## Praktische Anwendung
+
+- Gefahr und Nutzen gehen mit der Übergabe der Sache an den Käufer über.
+- Der Zeitpunkt der Übergabe ist entscheidend für die Risikoverteilung.
+- Nach der Übergabe trägt der Käufer das Risiko für Schäden oder Verlust.
+- Der Käufer profitiert ab der Übergabe von den Nutzungen der Sache.
+- Bei Verzögerungen muss geklärt werden, wer das Risiko trägt.
+
+## Fallbeispiele
+
+>[!example] Ein Werkstattleiter kauft eine Baumaschine. Sobald die Maschine übergeben wird, ist er für deren Zustand verantwortlich und kann sie für seine Projekte nutzen.
+
+>[!example] Beim Kauf einer defekten Maschine trägt der Käufer das Risiko, wenn der Mangel nach der Übergabe festgestellt wird.
+
+>[!example] Ein Mechaniker kauft Ersatzteile. Wird die Lieferung verzögert und die Teile beschädigt, hängt die Verantwortung vom Übergabezeitpunkt ab.
+
+## FAQ
+
+>[!question] Wann geht im Kaufvertragsrecht die Gefahr auf den Käufer über?
+>Die Gefahr geht mit der Übergabe der Sache an den Käufer über.
+
+>[!question] Was geschieht mit dem Nutzen der Sache nach der Übergabe?
+>Nach der Übergabe kann der Käufer den Nutzen aus der Sache ziehen.
+
+>[!question] Wer trägt das Risiko, wenn eine Sache nach der Übergabe beschädigt wird?
+>Nach der Übergabe trägt der Käufer das Risiko für Schäden.
+
+## Relevanz
+
+Das Verständnis des **Übergangs von Nutzen und Gefahr** ist für Werkstattleiter wichtig, da es klärt, wer ab welchem Zeitpunkt für Schäden verantwortlich ist und wer von der Sache profitieren kann. Dieses Wissen ist entscheidend für die Risikobewertung bei Kaufentscheidungen.
+
+## Fazit
+
+Überprüfen Sie Ihr Wissen mit dem beigefügten Quiz und erkunden Sie das Lehrmittel für eine vertiefte Auseinandersetzung mit dem Thema.

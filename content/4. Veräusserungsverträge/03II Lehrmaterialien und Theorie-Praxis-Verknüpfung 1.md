@@ -1,0 +1,43 @@
+## Theoretische Erklärung
+
+Das **Kaufvertragsrecht**, geregelt im Obligationenrecht (OR), ist ein zentrales Element des Privatrechts in der Schweiz. Es befasst sich mit dem Austausch von Waren gegen Geld. Dabei entstehen für Käufer und Verkäufer spezifische **Rechte und Pflichten**. Gemäß [[OR#Art. 184]] entsteht ein Kaufvertrag durch die Einigung der Parteien über die wesentlichen Punkte, hauptsächlich die Sache und den Preis. 
+
+Für den Verkäufer besteht die Hauptpflicht in der **Übergabe der Sache** und der Sicherung des Eigentums daran (vgl. [[OR#Art. 185]]). Der Käufer hingegen ist verpflichtet, den vereinbarten Preis zu zahlen (siehe [[OR#Art. 214]]). Eine zentrale Besonderheit im Kaufvertragsrecht ist das **gegenseitige Abhängigkeitsverhältnis** dieser Pflichten: Die Pflicht zur Übergabe der Sache und die Pflicht zur Zahlung des Kaufpreises sind interdependent. Diese Wechselbeziehung bedeutet, dass keine Partei zur Erfüllung ihrer Pflicht verpflichtet ist, bevor die andere Partei ihre Pflicht erfüllt hat (vgl. [[OR#Art. 82]]).
+
+## Praktische Anwendung
+
+- Ein Kaufvertrag ist erst gültig, wenn sich beide Parteien über die Sache und den Preis einig sind.
+- Der Verkäufer muss dem Käufer die Sache übergeben und das Eigentum daran sichern.
+- Der Käufer muss den vereinbarten Kaufpreis zahlen.
+- Die Pflichten von Käufer und Verkäufer sind voneinander abhängig.
+- Bei Nichterfüllung einer Pflicht kann die Gegenpartei auf Erfüllung klagen oder vom Vertrag zurücktreten.
+
+## Fallbeispiele
+
+>[!example] Ein Landmaschinenmechaniker verkauft eine reparierte Maschine. Der Kaufvertrag ist gültig, sobald beide Parteien sich über den Preis und die Maschine einig sind. Der Mechaniker muss die Maschine in funktionstüchtigem Zustand übergeben.
+
+>[!example] Ein Baumaschinenmechaniker kauft Ersatzteile. Er hat Anspruch auf die rechtzeitige Lieferung dieser Teile und muss im Gegenzug den Kaufpreis termingerecht entrichten.
+
+>[!example] Bei einer verzögerten Zahlung des Kaufpreises für eine Baumaschine kann der Verkäufer die Übergabe hinauszögern oder vom Vertrag zurücktreten.
+
+## FAQ
+
+>[!question] Was sind die wesentlichen Elemente eines Kaufvertrags im Schweizer Recht? 
+>Die wesentlichen Elemente sind die Einigung über die Sache und den Preis.
+
+>[!question] Was passiert, wenn eine der Parteien ihre Pflichten aus dem Kaufvertrag nicht erfüllt? 
+>Die Gegenpartei kann auf Erfüllung klagen oder vom Vertrag zurücktreten.
+
+>[!question] In welchem Verhältnis stehen die Pflichten von Käufer und Verkäufer im Kaufvertragsrecht?
+>Die Pflichten stehen in einem gegenseitigen Abhängigkeitsverhältnis.
+
+## Relevanz
+
+Das Verständnis von **Rechten und Pflichten im Kaufvertragsrecht** ist für Werkstattleiter essentiell, da es den Grundstein für reibungslose Geschäftstransaktionen legt. Das Wissen um diese gegenseitigen Obligationen hilft, Konflikte zu vermeiden und trägt zu einer erfolgreichen Geschäftsführung bei.
+
+## Fazit
+
+Überprüfen Sie Ihr Wissen mit dem beigefügten Quiz und erkunden Sie das Lehrmittel für eine vertiefte Auseinandersetzung mit dem Thema.
+
+---
+[[]]

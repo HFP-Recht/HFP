@@ -1,0 +1,41 @@
+## Theoretische Erklärung
+
+Das **Austauschverhältnis im Kaufvertragsrecht** bezieht sich auf die **Haupt- und Nebenpflichten**, die sich aus einem Kaufvertrag ergeben. Die Hauptpflichten sind klar definiert: Der Verkäufer muss die Ware übergeben und das Eigentum daran verschaffen ([[OR#Art. 184]] und [[OR#Art. 185]]), während der Käufer den vereinbarten Preis zu zahlen hat ([[OR#Art. 214]]). Nebenpflichten sind zusätzliche Pflichten, die sich aus dem Vertrag oder dem Gesetz ergeben. Dazu gehören beispielsweise die Pflicht zur Sorgfalt, Informationspflichten oder die Pflicht zur Mängelrüge. Diese Nebenpflichten ergänzen die Hauptpflichten und dienen dazu, das Vertragsverhältnis fair und effizient zu gestalten.
+
+## Praktische Anwendung
+
+- Hauptpflicht des Verkäufers: Übergabe der Ware und Verschaffung des Eigentums.
+- Hauptpflicht des Käufers: Zahlung des Kaufpreises.
+- Nebenpflichten, wie die Sorgfaltspflicht, sind für die Vertragsabwicklung wichtig.
+- Informationspflichten beinhalten die Aufklärung über wesentliche Eigenschaften der Ware.
+- Die Mängelrügepflicht erlaubt es dem Käufer, Mängel an der Ware zu beanstanden.
+
+## Fallbeispiele
+
+>[!example] Ein Werkstattleiter kauft neue Maschinen. Neben der Zahlung muss er auch etwaige Mängel fristgerecht rügen.
+
+>[!example] Ein Landmaschinenmechaniker verkauft eine gebrauchte Maschine. Er muss nicht nur die Maschine übergeben, sondern auch über alle bekannten Mängel informieren.
+
+>[!example] Beim Kauf von Ersatzteilen muss der Verkäufer nicht nur die Teile liefern, sondern auch sicherstellen, dass sie für die beabsichtigte Verwendung geeignet sind.
+
+## FAQ
+
+>[!question] Was sind die Hauptpflichten im Kaufvertragsrecht?
+>Die Hauptpflichten sind die Übergabe der Ware und die Zahlung des Kaufpreises.
+
+>[!question] Was sind Beispiele für Nebenpflichten im Kaufvertragsrecht?
+>Zu den Nebenpflichten gehören Sorgfalts-, Informations- und Mängelrügepflichten.
+
+>[!question] Warum sind Nebenpflichten im Kaufvertrag wichtig?
+>Nebenpflichten tragen zur Fairness und Effizienz des Vertragsverhältnisses bei.
+
+## Relevanz
+
+Das Verständnis von **Haupt- und Nebenpflichten** im Kaufvertragsrecht ist für Werkstattleiter entscheidend, da es hilft, rechtliche Risiken zu minimieren und Geschäftsbeziehungen effektiv zu managen.
+
+## Fazit
+
+Überprüfen Sie Ihr Wissen mit dem beigefügten Quiz und erkunden Sie das Lehrmittel für eine vertiefte Auseinandersetzung mit dem Thema.
+
+---
+[[]]
