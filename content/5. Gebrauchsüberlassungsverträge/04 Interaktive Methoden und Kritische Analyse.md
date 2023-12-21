@@ -1,7 +1,6 @@
 >[!info] **Sachverhalt**
 >K. möchte von L. ein Gewerbegebäude mit kompletter Büroausstattung und ein angrenzendes Grundstück erwerben. Zusätzlich beinhaltet der Kauf eine Forderung gegen M. aus einem Darlehensvertrag sowie die Übernahme einer Bürgschaft gegenüber N. Des Weiteren möchte K. von L. einen Schuldschein gegen O. sowie einen Wechsel mit Rektaklausel gegen P. erwerben. Es soll geklärt werden, wie der Kaufvertrag in diesen verschiedenen Aspekten rechtlich zu handhaben ist.
 
-## Lösung
 >[!info] **1. Sachverhalt analysieren**
 >_Was ist passiert? Wer ist beteiligt? Wer macht was geltend? Welche rechtlichen Fragen stellen sich?_
 >>[!todo]- Antwort
