@@ -1,3 +1,5 @@
+03 Lehrmaterialien und Theorie-Praxis-Verknüpfung
+
 **Seite 3: Theoretische Grundlagen**:
 
 - Darstellung der Grundprinzipien und Theorien hinter den Lernkategorien.
@@ -7,4 +9,4 @@
 - Interaktive Elemente wie Fallstudien-Links und Diskussionsanregungen.
 
 ---
-[[04 Interaktive Methoden und Kritische Analyse]]
+[[]]

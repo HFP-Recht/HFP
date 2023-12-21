@@ -1,3 +1,5 @@
+01 Kursüberblick und Ziele
+
 **Seite 1: Kurszielsetzung und Einführung**:
 
 - Erläuterung des Kursziels.
@@ -5,4 +7,4 @@
 - Erklärung des Graph Views und der Navigationspfade.
 
 ---
-[[02 Lernkategorien und Grundlagen]]
+[[]]

@@ -1,3 +1,5 @@
+
+
 # Lernziele:
 - Verstehen der grundlegenden Prinzipien des Miet- und Pachtrechts.
 - Erkennen der wichtigsten Rechte und Pflichten im Miet- und Pachtrecht.
@@ -41,3 +43,6 @@
 Am Ende dieses Moduls sollten Sie die Grundlagen des Miet- und Pachtrechts verstehen und einfache Fallstudien zu diesem Rechtsgebiet analysieren können.
 >[!info] 
 >Überprüfen Sie Ihr Wissen mit dem beigefügten Quiz und erkunden Sie das Lehrmittel für eine vertiefte Auseinandersetzung mit dem Thema.
+
+---
+[[]]
