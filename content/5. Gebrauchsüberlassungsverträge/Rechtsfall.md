@@ -1,27 +1,33 @@
 >[!info] Sachverhalt
->Hans Huber (HH), Inhaber der Huber Landmaschinen AG, plant, das Unternehmen LandTech GmbH von Laura Landmann zu erwerben. Zum Unternehmen gehören verschiedene Landmaschinen, zwei LKWs, die Lizenzrechte für eine Buchhaltungssoftware, sowie ein Mietvertrag für die Lagerhalle. Zusätzlich möchte HH von Laura Landmann eine offene Forderung aus einem Kaufvertrag gegenüber der Firma AgriStar AG übernehmen, inklusive der damit verbundenen Verpflichtung zur Erbringung aller ausstehenden Wartungsarbeiten. Des Weiteren soll HH einen Darlehensvertrag mit der Firma Grünfeld GmbH sowie einen ausgestellten Wechsel auf die Firma ForstPro AG erwerben.
+Herr Müller, Inhaber der Müller Landtechnik GmbH, möchte das Geschäft "BauMaschinenProfi" von Frau Schneider erwerben. Das Geschäft umfasst verschiedene Baumaschinen, einen LKW, ein Nutzungsrecht für eine Lagerverwaltungssoftware, einen Mietvertrag für die Lagerhalle und die Übernahme einer Forderung aus einem Kaufvertrag mit der Firma Constructo AG sowie die damit verbundenen Gewährleistungsverpflichtungen. Zusätzlich soll Herr Müller einen Schuldschein gegen die Firma Wegbau GmbH sowie einen gezogenen Wechsel auf die Firma DesignBau AG übernehmen.
 
 >[!info] **1. Sachverhalt analysieren**
 >_Was ist passiert? Wer ist beteiligt? Wer macht was geltend? Welche rechtlichen Fragen stellen sich?_ 
 >>[!todo]- Antwort
->>Hans Huber beabsichtigt, LandTech GmbH von Laura Landmann zu kaufen, inklusive Landmaschinen, LKWs, Softwarelizenz, Mietvertrag, offener Forderung gegen AgriStar AG, einem Darlehensvertrag mit Grünfeld GmbH und einem Wechsel auf ForstPro AG. Rechtliche Fragen betreffen Eigentumsübertragung, Lizenz- und Mietrechtsübertragung, Forderungs- und Schuldenübernahme, sowie Wechselrecht.
+>>Herr Müller beabsichtigt, das Geschäft BauMaschinenProfi von Frau Schneider zu kaufen, einschließlich Baumaschinen, LKW, Software-Nutzungsrechten, Mietvertrag für eine Lagerhalle, einer Forderung gegen Constructo AG samt Gewährleistungspflichten, einem Schuldschein gegen Wegbau GmbH und einem Wechsel auf DesignBau AG. Rechtliche Fragen betreffen die Übertragung von Eigentum, Forderungen, Schuldscheinen, Wechseln und die Übernahme von Verträgen und Pflichten.
 
 >[!info] **2. Relevante Regel finden**
 >_Welches Rechtsgebiet ist betroffen? In welcher Rechtsvorschrift ist die Frage geregelt? [HFP Rechtsfall Generator empfiehlt die für die Lösung massgebliche Gesetzesartikeln.]_
 >>[!todo]- Antwort
->>Betroffene Rechtsgebiete sind das Obligationenrecht und das Wechselrecht. Relevant sind [[OR#Art. 184]] für Eigentumsübertragung, [[OR#Art. 163]] für Zession, [[OR#Art. 115]] für Schuldübernahme, und das Wechselgesetz für die Übertragung des Wechsels.
+>>Betroffen sind das Obligationenrecht und das Sachenrecht. Die relevanten Regelungen finden sich im [[OR#Art. 184]] (Eigentumsübertragung), [[OR#Art. 163]] (Vertragsübernahme), [[OR#Art. 115]] (Forderungsabtretung), [[OR#Art. 305]] (Wechselrecht) und [[ZGB#Art. 929]] (Übertragung beweglicher Sachen).
 
-**3. Regel analysieren**
-_Welche rechtlichen Voraussetzungen, sogenannte Tatbestandsmerkmale, müssen erfüllt sein? Welches sind die Rechtsfolgen davon?_
->[!todo]- Antwort
->Für die Eigentumsübertragung ist Übergabe nötig ([[OR#Art. 184]]). Zession erfordert einen Vertrag zwischen Zedent und Zessionar ([[OR#Art. 163]]), und die Schuldübernahme bedarf der Zustimmung des Gläubigers ([[OR#Art. 115]]). Für die Übertragung eines Wechsels ist ein Indossament und die Übergabe des Wechseldokuments erforderlich.
+>[!info] **3. Regel analysieren**
+>_Welche rechtlichen Voraussetzungen, sogenannte Tatbestandsmerkmale, müssen erfüllt sein? Welches sind die Rechtsfolgen davon?_
+>>[!todo]- Antwort
+>>Eigentumsübertragung von Baumaschinen und LKW erfordert Übergabe (Art. 929 ZGB). Für die Software-Nutzungsrechte ist eine Vereinbarung nötig, eventuell mit Zustimmung des Anbieters. Die Mietvertragsübernahme bedingt die Zustimmung des Vermieters (Art. 163 OR). Die Forderungsübertragung gegen Constructo AG geschieht durch Zession (Art. 115 OR), und die Übernahme der Gewährleistungspflichten verlangt die Zustimmung von Constructo AG. Der Schuldschein wird durch Übergabe und eventuell schriftliche Abtretung übertragen. Für den Wechsel ist ein Indossament und die Übergabe des Wechseldokuments erforderlich (Art. 305 OR).
 
 >[!info] **4. Regel auf Sachverhalt anwenden und Rechtsfolge bestimmen**
 >_Sind die Voraussetzungen im Einzelfall erfüllt?_
 >>[!todo]- Antwort
->>Die Übergabe der Landmaschinen und LKWs vollzieht die Eigentumsübertragung. Die Lizenzrechte und der Mietvertrag erfordern zusätzliche Vereinbarungen und Zustimmungen. Die Forderungs- und Schuldübernahme gegenüber AgriStar AG und Grünfeld GmbH muss durch entsprechende Verträge und Zustimmungen realisiert werden. Der Wechsel auf ForstPro AG benötigt ein Indossament und die Übergabe.
+>>Bei Übergabe der Baumaschinen und des LKW geht das Eigentum auf Herrn Müller über. Die Übertragung der Software-Nutzungsrechte und des Mietvertrags erfordert jeweils eine Vereinbarung, möglicherweise mit Drittbeteiligten. Die Forderungsübertragung und die Übernahme der Gewährleistungspflichten gegenüber Constructo AG bedürfen einer entsprechenden Vereinbarung und Zustimmung von Constructo AG. Die Übertragung des Schuldscheins und des Wechsels erfolgt durch Übergabe und gegebenenfalls zusätzliche Dokumentation.
 
 ## Diskussionsfragen
->[!question] Welche zusätzlichen Schritte sind nötig, um die Lizenzrechte für die Buchhaltungssoftware rechtsgültig zu übertragen?
+>[!question] Wie könnten die Vertragsparteien die Übergabe der Baumaschinen und des LKWs rechtlich sicherstellen?
 >>[!todo]- Antwort
->>Für die Übertragung der Lizenzrechte ist eine Vereinbarung zwischen HH, Laura Landmann und dem Software-Anbieter nötig. Es ist zu prüfen, ob eine solche Übertragung laut Lizenzvertrag zulässig ist und ob die Zustimmung des Lizenzgebers erforderlich
+>>Die Parteien könnten eine genaue Bestandsaufnahme der zu übergebenden Gegenstände vornehmen
+
+ und einen Übergabeprotokoll erstellen, um die Übergabe und damit den Eigentumsübergang gemäß Art. 929 ZGB zu dokumentieren.
+
+>[!question] Welche Risiken bestehen bei der Übernahme der Gewährleistungspflichten gegenüber Constructo AG, und wie können sie minimiert werden?
+>>[!todo]- Antwort
+>>Risiken umfassen die Unkenntnis über das Ausmaß der Gewährleistungspflichten und mögliche versteckte Mängel. Zur Minimierung sollten die Vertragsbedingungen mit Constructo AG genau geprüft und eventuell eine Haftungsbegrenzung oder eine genaue Definition der zu übernehmenden Pflichten vereinbart werden.
