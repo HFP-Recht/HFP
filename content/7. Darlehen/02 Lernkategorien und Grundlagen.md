@@ -1,40 +1,45 @@
-# Modul 1: Einführung in das Darlehens- und Kontokorrentkreditrecht
+### Modul 1: Einführung in das Rechtsgebiet des Darlehens- und Kontokorrentkreditrechts
 
-# Lernziele:
+# Lernziele
 - Verstehen der grundlegenden Prinzipien des Darlehens- und Kontokorrentkreditrechts.
-- Erkennen der wichtigsten Rechte und Pflichten im Bereich der Darlehen und Kontokorrentkredite.
-- Einblick in die gesetzlichen Regelungen bezüglich Darlehen und Kontokorrentkredite.
+- Erkennen der wichtigsten Rechte und Pflichten im Bereich Darlehens- und Kontokorrentkredit.
+- Einblick in die gesetzlichen Regelungen bezüglich Darlehens- und Kontokorrentkredit.
 
-# Einführung:
+# Einführung
 >[!info] 
->Das Darlehensrecht, geregelt in Artikeln wie [[OR#Art. 312]] und [[OR#Art. 318]], sowie das Kontokorrentkreditrecht, teilweise erfasst in [[OR#Art. 117]], sind wesentliche Aspekte des Schweizer Privatrechts. Diese Gesetzesartikel bilden die Grundlage für die meisten Fragestellungen in diesem Bereich.
+>Der Darlehensvertrag, geregelt in Art. 312 OR, involviert die Übertragung des Eigentums an der verliehenen Sache, während der Kontokorrentkredit nicht spezifisch im Gesetz geregelt ist, aber durch Bestimmungen wie Art. 117, 124, 314, und 500 OR beeinflusst wird. Diese Gesetzesartikel bilden die Grundlage für die meisten Fragestellungen im Bereich des Darlehens- und Kontokorrentkreditrechts.
 
-# Schlüsselkategorien im Darlehens- und Kontokorrentkreditrecht:
+# Schlüsselkategorien im Darlehens- und Kontokorrentkreditrecht
 - **Vertragsgestaltung und -abschluss**: Wichtige Bestandteile eines Darlehensvertrags und gesetzliche Anforderungen.
-- **Rechte und Pflichten bei Darlehen und Kontokorrentkrediten**: Übersicht über die gegenseitigen Verpflichtungen.
-- **Konsumkreditgesetz**: wichtige Regelungen bezüglich des Schutzes von Konsumenten.
-- **Zinsgestaltung und Rückzahlungsmodalitäten**: wichtige Regelungen bezüglich der Verzinsung und Rückzahlung.
+- **Rechte und Pflichten im Darlehens- und Kontokorrentkreditrecht**: Übersicht über die gegenseitigen Verpflichtungen.
+- **Konsumkreditgesetz**: wichtige Regelungen bezüglich des Kontokorrentkredits.
+- **Zinsen und Rückzahlungen**: wichtige Regelungen bezüglich des Darlehensrechts.
 
-## Beispiele aus den Gesetzen:
->[!question]- Was sind die rechtlichen Grundlagen eines Darlehensvertrags?
->Kurze Antwort: Ein Darlehensvertrag basiert auf Artikeln wie [[OR#Art. 312]], welcher die Übertragung des Eigentums an der verliehenen Sache regelt.
->[!question]- Wie wird der Kontokorrentkredit rechtlich behandelt?
->Kurze Antwort: Der Kontokorrentkredit ist gesetzlich nicht spezifisch geregelt, fällt aber teilweise unter [[OR#Art. 117]].
->[!question]- Welche Rolle spielt das Konsumkreditgesetz im Kontext von Darlehen und Krediten?
->Kurze Antwort: Das Konsumkreditgesetz regelt unter anderem die Vertragsbedingungen und Konsumentenschutzaspekte bei Kreditverhältnissen.
+# Beispiele aus den Gesetzen
+>[!question]- Was beinhaltet der Art. 312 OR im Kontext eines Darlehensvertrags?
+>Kurze Antwort: Art. 312 OR regelt die Übertragung des Eigentums an der verliehenen Sache und die Rückzahlungsbedingungen für Darlehen.
+>**[[OR#Art. 312]]**: Inhalt des Artikels.
 
-## Von der Theorie zur Praxis:
-- **Sachverhalt 1**: Ein Unternehmen gewährt einem Kunden einen Kredit zur Anschaffung von Maschinen.
-- **Diskussion**: Welche Aspekte des Konsumkreditgesetzes könnten hier relevant sein?
+>[!question]- Wie ist der Kontokorrentkredit rechtlich eingeordnet?
+>Kurze Antwort: Der Kontokorrentkredit ist nicht spezifisch im Gesetz geregelt, aber Bestimmungen wie Art. 117 OR sind relevant.
+>**[[OR#Art. 117]]**: Inhalt des Artikels.
 
-- **Sachverhalt 2**: Eine Bank bietet einem Kunden einen Kontokorrentkredit an.
-- **Diskussion**: Welche gesetzlichen Bestimmungen gelten für die Vertragsgestaltung und Zinsberechnung?
+>[!question]- Was sind die rechtlichen Grundlagen des Konsumkreditgesetzes?
+>Kurze Antwort: Das Konsumkreditgesetz, in Kraft seit 1. Januar 2003, regelt den Kontokorrentkredit zwischen Konsumenten und gewerbsmäßigen Kreditgebern.
+>**[Kein spezifischer Artikel, Verweis auf Konsumkreditgesetz]**
 
-## Praxisrelevanz:
+# Von der Theorie zur Praxis
+- **Sachverhalt 1**: Kreditvergabe an einen Konsumenten.
+- **Diskussion**: Welche rechtlichen Anforderungen gelten nach dem Konsumkreditgesetz? Sind z.B. Zinsobergrenzen einzuhalten?
+
+- **Sachverhalt 2**: Ausleihung von vertretbaren Sachen zwischen Unternehmen.
+- **Diskussion**: Wie wird das Eigentum an den ausgeliehenen Sachen rechtlich behandelt, und welche Rückzahlungsbedingungen gelten?
+
+# Relevanz
 >[!info] 
->Die Kenntnis des Darlehens- und Kontokorrentkreditrechts ist für Land- und Baumaschinenmechaniker-Meister von Bedeutung, um finanzielle Transaktionen, wie die Anschaffung von Maschinen oder die Inanspruchnahme von Krediten, rechtlich fundiert zu gestalten.
+>Die Verständnis der Gesetze zu Darlehen und Kontokorrentkredit ist essenziell für Land- und Baumaschinenmechaniker, insbesondere im Hinblick auf Geschäftsbeziehungen und finanzielle Transaktionen. Das korrekte Verständnis dieser rechtlichen Aspekte trägt wesentlich zur beruflichen Praxis bei.
 
 ## Fazit:
-Am Ende dieses Moduls sollten Sie in der Lage sein, die Grundlagen des Darlehens- und Kontokorrentkreditrechts zu verstehen und einfache Fallstudien zu diesen Themen zu analysieren.
+Am Ende dieses Moduls sollten Sie die Grundlagen des Darlehens- und Kontokorrentkreditrechts verstehen und einfache Fallstudien zu diesem Rechtsgebiet analysieren können.
 >[!info] 
 >Überprüfen Sie Ihr Wissen mit dem beigefügten Quiz und erkunden Sie das Lehrmittel für eine vertiefte Auseinandersetzung mit dem Thema.

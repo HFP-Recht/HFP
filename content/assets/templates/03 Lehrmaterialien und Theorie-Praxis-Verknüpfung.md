@@ -1,5 +1,7 @@
 03 Lehrmaterialien und Theorie-Praxis-Verknüpfung
 
+Prompt Legal Mentor zu jede lernkategorie
+
 **Seite 3: Theoretische Grundlagen**:
 
 - Darstellung der Grundprinzipien und Theorien hinter den Lernkategorien.
