@@ -1,4 +1,4 @@
-
+## Art. 184
 ## [Achter Titel:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8)[97](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#fn-d8e5612) [Die Miete](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_8)
 
 [97](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#fnbck-d8e5612) Fassung gemäss Ziff. I des BG vom 15. Dez. 1989, in Kraft seit 1. Juli 1990 ([AS **1990** 802](https://www.fedlex.admin.ch/eli/oc/1990/802_802_802/de); [BBl **1985** I 1389](https://www.fedlex.admin.ch/eli/fga/1985/1_1389_1369_1201/de)). Siehe auch Art. 5 der SchlB zu den Tit. VIII und VIIIbis am Schluss des OR.
