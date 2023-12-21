@@ -1,5 +1,7 @@
 04 Interaktive Methoden und Kritische Analyse
 
+rechtsfälle to Rechtsfall generator [ChatGPT (openai.com)](https://chat.openai.com/g/g-ZoE3y0XCw-hfp-rechtsfall-generator)
+
 Bundesgericht rechtsfälle zum Thema. Gemeinsame Lösung in Diskussion
 Prompt zu 4 schritte lösung + diskussionsfragen verbunden mit lernkategoriern
 
