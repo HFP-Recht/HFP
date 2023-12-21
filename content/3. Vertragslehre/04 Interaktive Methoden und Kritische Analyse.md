@@ -2,3 +2,6 @@
 
 - Anleitung zur Anwendung interaktiver Methoden und zur Förderung der kritischen Analyse.
 - Beispiele für Diskussionsfragen und Analyseaufgaben.
+
+---
+[[05 Vertiefung der Lernkategorien]]

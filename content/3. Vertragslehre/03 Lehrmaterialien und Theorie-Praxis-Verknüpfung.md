@@ -5,3 +5,6 @@
 
 - Präsentation ausgewählter Fälle zur Veranschaulichung der Theorie.
 - Interaktive Elemente wie Fallstudien-Links und Diskussionsanregungen.
+
+---
+[[04 Interaktive Methoden und Kritische Analyse]]
