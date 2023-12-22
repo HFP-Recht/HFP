@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "HFP-Recht.github.io",
-  ignorePatterns: ["private", "templates", ".obsidian", "assets"],
+  ignorePatterns: ["private", "templates", ".obsidian", "assets", "99.attachments"],
     defaultDateType: "created",
     theme: {
       typography: {
