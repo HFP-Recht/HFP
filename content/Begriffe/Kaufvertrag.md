@@ -9,6 +9,7 @@ Innerhalb des Fahrniskaufs unterscheidet man weiter zwischen:
 - **Spezieskauf**: Kauf einer individuell bestimmten Sache.
 - **Gattungskauf**: Kauf einer Sache, die nur der Art nach bestimmt ist.
 
+![[Pasted image 20231222131516.png]]
 ## Praktische Anwendung
 Bei der **Anwendung** im Bereich der Land- und Baumaschinenmechanik ist der Spezieskauf häufig anzutreffen, zum Beispiel beim Kauf einer spezifischen gebrauchten Baumaschine. Der Gattungskauf tritt auf, wenn neue, standardisierte Maschinen oder Teile bestellt werden, die nicht individuell bestimmt sind, sondern nur nach Art und Typ.
 
