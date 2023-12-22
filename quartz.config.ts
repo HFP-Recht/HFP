@@ -3,14 +3,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Rechtskunde",
+    pageTitle: "Rechtskunde HFP",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     baseUrl: "HFP-Recht.github.io",
-  ignorePatterns: ["private", "templates", ".obsidian"],
+  ignorePatterns: ["private", "templates", ".obsidian", "assets"],
     defaultDateType: "created",
     theme: {
       typography: {
