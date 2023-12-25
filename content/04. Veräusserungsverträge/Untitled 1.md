@@ -2,7 +2,7 @@
 
 ## Begriffspaare
 >[!quote] Vorvertrag — Hauptvertrag
->Bedeutung: Ein Vorvertrag ist eine verbindliche Vereinbarung zum späteren Abschluss eines Hauptvertrags. Der Hauptvertrag stellt das finale, [[ZGB#Art. 162]] rechtskräftige Abkommen dar.
+>Bedeutung: Ein Vorvertrag ist eine verbindliche Vereinbarung zum späteren Abschluss eines Hauptvertrags. Der Hauptvertrag stellt das finale, rechtskräftige Abkommen dar.
 >Anwendungsbereich: Vorverträge werden in verschiedenen Geschäftsbereichen eingesetzt, um frühzeitig Rechte und Pflichten für zukünftige Hauptverträge festzulegen.
 >Relevanz: Diese Unterscheidung ist wichtig für die Vertragsplanung und -sicherheit, um zukünftige Geschäftsabschlüsse rechtlich abzusichern.
 
