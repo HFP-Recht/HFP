@@ -13,8 +13,11 @@ Lehrerzimmer
 
 H5P Questionset
 0X.XX + Begriffspaare to https://chat.openai.com/g/g-e7ppew09T-hfp-bloomh5p/ um ein booklet mit  [Neuen Inhalt erstellen | Lumi](https://app.lumi.education/dashboard/content/658e63d19228e4d1acd86ad1/edit)
-HFP Dokumetation tool
+
+# HFP Dokumetation tool
 1. 0X.XX to Legal Mentor
-2. Fälle im Legal mentor to HFP Rechtsfall generator
+2. Theorie + einzelne Fall aus im Legal mentor  to HFP Rechtsfall generator
+3. Fälle aus Rechtsfall generator in Lumi SACHVERHALT ANALYSIEREN
+4. Lösungen aus Legal mentor oder Rechtsfall generator verlinken in Obsidian
 
 
