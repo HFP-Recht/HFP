@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"chat_role":"assistant","id":"66a0d6dc785ca1ae","type":"text","text":"Ein Kaufvertrag ist eine schriftliche Absprache zwischen zwei Parteien, bei der eine Partei (der Verkäufer) sich verpflichtet, eine bestimmte Ware oder Dienstleistung an die andere Partei (den Käufer) zu verkaufen und diese Partei sich wiederum verpflichtet, den vereinbarten Preis dafür zu bezahlen. Der Kaufvertrag regelt die genauen Details des Verkaufs, wie zum Beispiel die beschriebene Ware, den Preis, die Zahlungsbedingungen und die Lieferbedingungen.","x":-137,"y":251,"width":360,"height":191,"color":"6"},
+		{"id":"144beacab49c68b2","type":"text","text":"Was ist ein kaufvertrag?","x":-132,"y":-23,"width":250,"height":60},
+		{"id":"5a8c1db7f18ee93f","type":"text","text":"","x":-137,"y":131,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"32f3da458ae0ed96","fromNode":"144beacab49c68b2","fromSide":"bottom","toNode":"5a8c1db7f18ee93f","toSide":"top"},
+		{"id":"b9acfcd20ea1fd64","fromNode":"5a8c1db7f18ee93f","fromSide":"bottom","toNode":"66a0d6dc785ca1ae","toSide":"top"}
+	]
+}

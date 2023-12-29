@@ -9,7 +9,7 @@
 
 # Schlüsselkategorien im Miet- und Pachtrecht:
 - **Vertragsgestaltung und -abschluss**: Wichtige Bestandteile eines Miet- und Pachtvertrages, gesetzliche Anforderungen.
-- **[[Rechte und Pflichten im Miet- und Pachtrecht]]**: Übersicht über die gegenseitigen Verpflichtungen.
+- **[[05.12 Rechte und Pflichten im Miet- und Pachtrecht]]**: Übersicht über die gegenseitigen Verpflichtungen.
 - **Austauschverhältnis und Dauerschuldverhältnisse**: Kernaspekte des Miet- und Pachtrechts.
 - **Besondere Verzugsregeln**: Spezifische Regelungen bei Vertragsverletzungen.
 
