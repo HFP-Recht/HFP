@@ -1,0 +1,6 @@
+
+|   |
+|---|
+|### Übergabe und Transportkosten<br><br>Muss in den folgenden Beispielen der Käufer oder der Verkäufer die zusätzlich anfallenden Kosten übernehmen? Begründen Sie Ihre Antwort mit Hilfe des Gesetzesartikels an.  <br>à Markieren Sie den Artikel in Ihrer Gesetzessammlung)|
+|\|   \|   \|   \|   \|<br>\|---\|---\|---\|---\|<br>\|Fall\|Käufer\|Verkäufer\|Begründung\|<br>\|Eveline Enderbizzin kauft online einen neuen Bürostuhl. Als sie den Stuhl erhält, stellt sie fest, dass zum Kaufpreis noch CHE 40.- Transportkosten addiert wurden.\|Laut OR 189.1\|<br>\|Was würde gelten, wenn im obigen Beispiel der Verkäufer des Bürostuhls eine Frankolieferung versprochen hätte?\|Laut OR 189.2\|<br>\|Ihre Eltern kaufen sich ein Einfamilienhaus. Die öffentliche Beurkundung des Grundstückkaufvertrags kostet CHF 3000.-\|Laut OR 188\|<br>\|Sie kaufen einen Occasionsmotorroller. Weil Sie befürchten, der Motor könnte nicht mehr einwandfrei sein, lassen Sie den Roller sofort nach der Übergabe durch einen Mechaniker überprüfen. Dieser findet zwar keine Mängel, sendet Ihnen aber eine Rechnung für seine Arbeit von CHF 200.-\|Laut OR 188\|<br>\|Sie bestellen online ein Buch. Die Buchhändlerin verrechnet Ihnen CHF 5.- für den Versand.\|Laut OR 189.1\||
+![[Pasted image 20240109184121.png]]
