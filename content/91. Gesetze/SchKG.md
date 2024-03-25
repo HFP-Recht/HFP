@@ -698,17 +698,10 @@ Der Konkurs kann in der Schweiz gegen den nämlichen Schuldner gleichzeitig nur 
 
 ## Art. 56
 
-Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014  (AS 2013 4111; BBl 2010 6455).
-
-1
-
-in den geschlossenen Zeiten, nämlich zwischen 20 Uhr und 7 Uhr sowie an Sonntagen und staatlich anerkannten Feiertagen;
-
-2
-
-Für die Klagen nach diesem Gesetz, die vor einem Gericht einzureichen sind, sind ausschliesslich die Bestimmungen der ZPO  SR 272 über den Stillstand der Fristen anwendbar.
-
-Eingefügt durch Ziff. II 2 des BG vom 17. März 2023 (Verbesserung der  Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025  (AS 2023 491; BBl 2020 2697).
+Ausser im Arrestverfahren oder wenn es sich um unaufschiebbare Massnahmen zur Erhaltung von Vermögensgegenständen handelt, dürfen Betreibungshandlungen nicht vorgenommen werden:
+1. in den geschlossenen Zeiten, nämlich zwischen 20 Uhr und 7 Uhr sowie an Sonntagen und staatlich anerkannten Feiertagen;
+2. während der Betreibungsferien, nämlich sieben Tage vor und sieben Tage nach Ostern und Weihnachten sowie vom 15. Juli bis zum 31. Juli; in der Wechselbetreibung gibt es keine Betreibungsferien;
+3. gegen einen Schuldner, dem der Rechtsstillstand (Art. 57–62) gewährt ist.
 
 ## Art. 57
 
@@ -796,11 +789,10 @@ Eingefügt durch Art. 2 des BG vom 28. Sept. 1949, in Kraft seit 1. Febr. 1950 
 
 1.
 
-Der Rechtsstillstand wegen Militär- oder Schutzdienstes kann vom Rechtsöffnungsrichter auf Antrag eines Gläubigers allgemein oder für einzelne Forderungen mit sofortiger Wirkung
-
-Aufgehoben werden, wenn der Gläubiger glaubhaft macht, dass:
-
-Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997  (AS 1995 1227; BBl 1991 III 1).
+Der Rechtsstillstand wegen Militär- oder Schutzdienstes kann vom Rechtsöffnungsrichter auf Antrag eines Gläubigers allgemein oder für einzelne Forderungen mit sofortiger Wirkung aufgehoben werden, wenn der Gläubiger glaubhaft macht, dass:
+1. dass der Schuldner Vermögenswerte dem Zugriff der Gläubiger entzogen hat oder dass er Anstalten trifft, die auf eine Begünstigung einzelner Gläubiger zum Nachteil anderer oder auf eine allgemeine Benachteiligung der Gläubiger hinzielen, oder
+2. der Schuldner, sofern er freiwillig Militär- oder Schutzdienst leistet, zur Erhaltung seiner wirtschaftlichen Existenz des Rechtsstillstandes nicht bedarf, oder
+3. der Schuldner freiwillig Militär- oder Schutzdienst leistet, um sich seinen Verpflichtungen zu entziehen.
 
 ## Art. 57e
 
@@ -870,7 +862,12 @@ Wird keine der erwähnten Personen angetroffen, so ist die Betreibungsurkunde zu
 
 1
 
-Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997  (AS 1995 1227; BBl 1991 III 1).
+Ist die Betreibung gegen eine juristische Person oder eine Gesellschaft gerichtet, so erfolgt die Zustellung an den Vertreter derselben. Als solcher gilt:
+
+1. für eine Gemeinde, einen Kanton oder die Eidgenossenschaft der Präsident der vollziehenden Behörde oder die von der vollziehenden Behörde bezeichnete Dienststelle;
+2. für eine Aktiengesellschaft, eine Kommanditaktiengesellschaft, eine Gesellschaft mit beschränkter Haftung, eine Genossenschaft oder einen im Handelsregister eingetragenen Verein jedes Mitglied der Verwaltung oder des Vorstandes sowie jeder Direktor oder Prokurist;
+3. für eine anderweitige juristische Person der Präsident der Verwaltung oder der Verwalter;
+4. für eine Kollektivgesellschaft oder Kommanditgesellschaft jeder zur Vertretung der Gesellschaft befugte Gesellschafter und jeder Prokurist.
 
 2
 
@@ -900,7 +897,11 @@ Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997  (
 
 4
 
-der Wohnort des Schuldners unbekannt ist;
+Die Zustellung wird durch öffentliche Bekanntmachung ersetzt, wenn:
+
+1. der Wohnort des Schuldners unbekannt ist;
+2. der Schuldner sich beharrlich der Zustellung entzieht;
+3. der Schuldner im Ausland wohnt und die Zustellung nach Absatz 3 nicht innert angemessener Frist möglich ist.
 
 5
 
@@ -911,8 +912,12 @@ Aufgehoben durch Ziff. I des BG vom 16. Dez. 1994, mit Wirkung seit 1. Jan. 1997
 ## Art. 67
 
 1
+Das Betreibungsbegehren ist schriftlich oder mündlich an das Betreibungsamt zu richten. Dabei sind anzugeben:
 
-der Name und Wohnort des Gläubigers und seines allfälligen Bevollmächtigten sowie, wenn der Gläubiger im Auslande wohnt, das von demselben in der Schweiz gewählte Domizil. Im Falle mangelnder Bezeichnung wird angenommen, dieses Domizil befinde sich im Lokal des Betreibungsamtes;
+1. der Name und Wohnort des Gläubigers und seines allfälligen Bevollmächtigten sowie, wenn der Gläubiger im Auslande wohnt, das von demselben in der Schweiz gewählte Domizil. Im Falle mangelnder Bezeichnung wird angenommen, dieses Domizil befinde sich im Lokal des Betreibungsamtes;
+2. der Name und Wohnort des Schuldners und gegebenenfalls seines gesetzlichen Vertreters; bei Betreibungsbegehren gegen eine Erbschaft ist anzugeben, an welche Erben die Zustellung zu erfolgen hat;
+3. die Forderungssumme oder die Summe, für welche Sicherheit verlangt wird, in gesetzlicher Schweizerwährung; bei verzinslichen Forderungen der Zinsfuss und der Tag, seit welchem der Zins gefordert wird;
+4. die Forderungsurkunde und deren Datum; in Ermangelung einer solchen der Grund der Forderung.
 
 2
 
@@ -1352,7 +1357,21 @@ Das Betreibungsamt macht die Betroffenen auf ihre Pflichten und auf die Straffol
 
 1
 
-Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997  (AS 1995 1227; BBl 1991 III 1).
+Unpfändbar sind:
+
+1. die dem Schuldner und seiner Familie zum persönlichen Gebrauch dienenden Gegenstände wie Kleider, Effekten, Hausgeräte, Möbel oder andere bewegliche Sachen, soweit sie unentbehrlich sind;
+2. Tiere, die im häuslichen Bereich und nicht zu Vermögens- oder Erwerbszwecken gehalten werden;
+3. die religiösen Erbauungsbücher und Kultusgegenstände;
+4. die Werkzeuge, Gerätschaften, Instrumente und Bücher, soweit sie für den Schuldner und seine Familie zur Ausübung des Berufs notwendig sind;
+5. nach der Wahl des Schuldners entweder zwei Milchkühe oder Rinder, oder vier Ziegen oder Schafe, sowie Kleintiere nebst dem zum Unterhalt und zur Streu auf vier Monate erforderlichen Futter und Stroh, soweit die Tiere für die Ernährung des Schuldners und seiner Familie oder zur Aufrechterhaltung seines Betriebes unentbehrlich sind;
+6. die dem Schuldner und seiner Familie für die zwei auf die Pfändung folgenden Monate notwendigen Nahrungs- und Feuerungsmittel oder die zu ihrer Anschaffung erforderlichen Barmittel oder Forderungen;
+7. die Bekleidungs-, Ausrüstungs- und Bewaffnungsgegenstände, das Dienstpferd und der Sold eines Angehörigen der Armee, das Taschengeld einer zivildienstleistenden Person sowie die Bekleidungs- und Ausrüstungsgegenstände und die Entschädigung eines Schutzdienstpflichtigen;
+8. das Stammrecht der nach den Artikeln 516–520 OR[189](https://www.fedlex.admin.ch/eli/cc/11/529_488_529/de#fn-d8e4778) bestellten Leibrenten;
+9. Fürsorgeleistungen und die Unterstützungen von Seiten der Hilfs-, Kranken- und Fürsorgekassen, Sterbefallvereine und ähnlicher Anstalten;
+10. Renten, Kapitalabfindung und andere Leistungen, die dem Opfer oder seinen Angehörigen für Körperverletzung, Gesundheitsstörung oder Tötung eines Menschen ausgerichtet werden, soweit solche Leistungen Genugtuung, Ersatz für Heilungskosten oder für die Anschaffung von Hilfsmitteln darstellen;
+11. die Renten gemäss Artikel 20 des Bundesgesetzes vom 20. Dezember 1946[193](https://www.fedlex.admin.ch/eli/cc/11/529_488_529/de#fn-d8e4854) über die Alters- und Hinterlassenenversicherung oder gemäss Artikel 50 des Bundesgesetzes vom 19. Juni 1959[194](https://www.fedlex.admin.ch/eli/cc/11/529_488_529/de#fn-d8e4863) über die Invalidenversicherung, die Leistungen gemäss Artikel 12 des Bundesgesetzes vom 19. März 1965[195](https://www.fedlex.admin.ch/eli/cc/11/529_488_529/de#fn-d8e4872) über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung sowie die Leistungen der Familienausgleichskassen;
+12. Ansprüche auf Vorsorge- und Freizügigkeitsleistungen gegen eine Einrichtung der beruflichen Vorsorge vor Eintritt der Fälligkeit;
+13. Vermögenswerte eines ausländischen Staates oder einer ausländischen Zentralbank, die hoheitlichen Zwecken dienen.
 
 2
 

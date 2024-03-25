@@ -4469,7 +4469,7 @@ Der Arbeitnehmer hat während des Jugendurlaubs keinen Lohnanspruch. Durch Abred
 
 Der Arbeitnehmer hat auf Verlangen des Arbeitgebers seine Tätigkeiten und Funktionen in der Jugendarbeit nachzuweisen.
 
-## Art. 329f Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005  (AS 2005 1429; BBl 2002 7522, 2003 1112 2923).
+## Art. 329f 
 
 1
 
@@ -5787,7 +5787,60 @@ Erlässt ein Kanton in Anwendung von Artikel 360a einen Normalarbeitsvertrag, so
 
 1
 
+Durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag darf von den folgenden Vorschriften weder zuungunsten des Arbeitgebers noch des Arbeitnehmers abgewichen werden:
+
+Artikel 321c:
 Absatz 1 (Überstundenarbeit)
+Artikel 323:
+Absatz 4 (Vorschuss)
+Artikel 323b:
+Absatz 2 (Verrechnung mit Gegenforderungen)
+Artikel 325:
+Absatz 2 (Abtretung und Verpfändung von Lohnforderungen)
+Artikel 326:
+Absatz 2 (Zuweisung von Arbeit)
+Artikel 329d:
+Absätze 2 und 3 (Ferienlohn)
+Artikel 331:
+Absätze 1 und 2 (Zuwendungen für die Personalfürsorge)
+Artikel 331b:
+(Abtretung und Verpfändung von Forderungen auf Vorsorgeleistungen)
+Artikel 334:
+Absatz 3 (Kündigung beim langjährigen Arbeitsverhältnis)
+Artikel 335:
+(Kündigung des Arbeitsverhältnisses)
+Artikel 335k:
+(Sozialplan während eines Konkurs- oder eines Nachlassverfahrens)230
+Artikel 336:
+Absatz 1 (Missbräuchliche Kündigung)
+Artikel 336a:
+(Entschädigung bei missbräuchlicher Kündigung)
+Artikel 336b:
+(Geltendmachung der Entschädigung)
+Artikel 336d:
+(Kündigung zur Unzeit durch den Arbeitnehmer)
+Artikel 337:
+Absätze 1 und 2 (Fristlose Auflösung aus wichtigen Gründen)
+Artikel 337b:
+Absatz 1 (Folgen bei gerechtfertigter Auflösung)
+Artikel 337d:
+(Folgen bei ungerechtfertigtem Nichtantritt oder Verlassen der Arbeitsstelle)
+Artikel 339:
+Absatz 1 (Fälligkeit der Forderungen)
+Artikel 339a:
+(Rückgabepflichten)
+Artikel 340b:
+Absätze 1 und 2 (Folgen der Übertretung des Konkurrenzverbotes)
+Artikel 342:
+Absatz 2 (Zivilrechtliche Wirkungen des öffentlichen Rechts)
+Artikel 346:
+(Vorzeitige Auflösung des Lehrvertrages)
+Artikel 349c:
+Absatz 3 (Verhinderung an der Reisetätigkeit)
+Artikel 350:
+(Besondere Kündigung)
+Artikel 350a:
+Absatz 2 (Rückgabepflichten).232
 
 2
 
@@ -5797,9 +5850,129 @@ Abreden sowie Bestimmungen von Normalarbeitsverträgen und Gesamtarbeitsverträg
 
 1
 
-Durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag darf von den folgenden Vorschriften nicht zuungunsten der Arbeitnehmerin oder des Arbeitnehmers abgewichen werden:
+Durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag darf von den folgenden Vorschriften nicht zuungunsten der Arbeitnehmerin oder des Arbeitnehmers abgewichen werden:233
 
-Fassung gemäss Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021  (AS 2020 4525; BBl 2019 4103).
+Artikel 321e:
+(Haftung des Arbeitnehmers)
+Artikel 322a:
+Absätze 2 und 3 (Anteil am Geschäftsergebnis)
+Artikel 322b:
+Absätze 1 und 2 (Entstehung des Provisionsanspruchs)
+Artikel 322c:
+(Provisionsabrechnung)
+Artikel 323b:
+Absatz 1 zweiter Satz (Lohnabrechnung)
+Artikel 324:
+(Lohn bei Annahmeverzug des Arbeitgebers)
+Artikel 324a:
+Absätze 1 und 3 (Lohn bei Verhinderung des Arbeitnehmers)
+Artikel 324b:
+(Lohn bei obligatorischer Versicherung des Arbeitnehmers)
+Artikel 326:
+Absätze 1, 3 und 4 (Akkordlohnarbeit)
+Artikel 326a:
+(Akkordlohn)
+Artikel 327a:
+Absatz 1 (Auslagenersatz im Allgemeinen)
+Artikel 327b:
+Absatz 1 (Auslagenersatz bei Motorfahrzeug)
+Artikel 327c:
+Absatz 2 (Vorschuss für Auslagen)
+Artikel 328:
+(Schutz der Persönlichkeit des Arbeitnehmers im Allgemeinen)
+Artikel 328a:
+(Schutz der Persönlichkeit bei Hausgemeinschaft)
+Artikel 328b:
+(Schutz der Persönlichkeit bei der Bearbeitung von Personendaten)234
+Artikel 329:
+Absätze 1, 2 und 3 (Freizeit)
+Artikel 329a:
+Absätze 1 und 3 (Dauer der Ferien)
+Artikel 329b:
+Absätze 2 und 3 (Kürzung der Ferien)
+Artikel 329c:
+(Zusammenhang und Zeitpunkt der Ferien)
+Artikel 329d:
+Absatz 1 (Ferienlohn)
+Artikel 329e:
+Absätze 1 und 3 (Jugendurlaub)235
+Artikel 329f:
+(Mutterschaftsurlaub)236
+Artikel 329g:
+(Urlaub des andern Elternteils)237
+Artikel 329gbis:
+(Urlaub im Falle des Todes der Mutter)238
+Artikel 329h:
+(Urlaub für die Betreuung von Angehörigen)239
+Artikel 329i:
+(Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes)240
+Artikel 329j:
+(Adoptionsurlaub)241
+Artikel 330:
+Absätze 1, 3 und 4 (Kaution)
+Artikel 330a:
+(Zeugnis)
+Artikel 331:
+Absätze 3 und 4 (Beitragsleistung und Auskunftspflicht bei Personalfürsorge)
+Artikel 331a:
+(Beginn und Ende des Vorsorgeschutzes)
+Artikel 332:
+Absatz 4 (Vergütung bei Erfindungen)
+Artikel 333:
+Absatz 3 (Haftung bei Übergang des Arbeitsverhältnisses)
+Artikel 335c:
+Absatz 3 (Kündigungsfristen)244
+Artikel 335i:
+(Verhandlungspflicht zwecks Abschlusses eines Sozialplans)245
+Artikel 335j:
+(Aufstellung des Sozialplans durch ein Schiedsgericht)246
+Artikel 336:
+Absatz 2 (Missbräuchliche Kündigung durch den Arbeitgeber)
+Artikel 336c:
+(Kündigung zur Unzeit durch den Arbeitgeber)
+Artikel 337a:
+(Fristlose Auflösung wegen Lohngefährdung)
+Artikel 337c:
+Absatz 1 (Folgen bei ungerechtfertigter Entlassung)
+Artikel 338:
+(Tod des Arbeitnehmers)
+Artikel 338a:
+(Tod des Arbeitgebers)
+Artikel 339b:
+(Voraussetzungen der Abgangsentschädigung)
+Artikel 339d:
+(Ersatzleistungen)
+Artikel 340:
+Absatz 1 (Voraussetzungen des Konkurrenzverbotes)
+Artikel 340a:
+Absatz 1 (Beschränkung des Konkurrenzverbotes)
+Artikel 340c:
+(Wegfall des Konkurrenzverbotes)
+Artikel 341:
+Absatz 1 (Unverzichtbarkeit)
+Artikel 345a:
+(Pflichten des Lehrmeisters247)
+Artikel 346a:
+(Lehrzeugnis)
+Artikel 349a:
+Absatz 1 (Lohn des Handelsreisenden)
+Artikel 349b:
+Absatz 3 (Ausrichtung der Provision)
+Artikel 349c:
+Absatz 1 (Lohn bei Verhinderung an der Reisetätigkeit)
+Artikel 349e:
+Absatz 1 (Retentionsrecht des Handelsreisenden)
+Artikel 350a:
+Absatz 1 (Provision bei Beendigung des Arbeitsverhältnisses)
+Artikel 352a:
+Absatz 3 (Haftung des Heimarbeitnehmers)
+Artikel 353:
+(Abnahme des Arbeitserzeugnisses)
+Artikel 353a:
+(Ausrichtung des Lohnes)
+Artikel 353b:
+Absatz 1 (Lohn bei Verhinderung an der Arbeitsleistung).
+
 
 2
 
