@@ -3,13 +3,5 @@
 
 >[!info] 
 >Unter Themen auf die Linke Spalte können Sie die Unterrichtsmodule finden.
->Sie finden die Themen auch nach # geordnet, wenn Sie eine Tag anklicken:
->	#1-Lehrjahr 
-
-
->[!info] 
->Bildschirmzoom reduzieren, falls die Spalten links und rechts (s. Bild unten) nicht sichtbar sind.
->
-![[übersicht seite.png]]
-
-* 
+>>[!warning] 
+>>Bildschirmzoom reduzieren, falls die Spalten links und rechts (s. Bild unten) nicht sichtbar sind.
