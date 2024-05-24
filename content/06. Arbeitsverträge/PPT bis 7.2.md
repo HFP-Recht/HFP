@@ -212,3 +212,204 @@ stundenkompensation aussehen? (Antwort: Durch Vereinbarung von Freizeitausgleich
 ---
 
 Diese Folien und Texte helfen dem Referenten, die Teilnehmer durch die Aufgaben zu führen und wichtige rechtliche Konzepte zu erläutern.
+
+
+# Pflichten Arbeitgeber
+
+## Teil 1: Präsentationsfolien
+
+### Folie 1: Anspruch auf Lohnfortzahlung bei Verhinderung
+- **Grundsatz: Ohne Arbeit kein Lohn**
+- **Ausnahmen**:
+  - Annahmeverzug des Arbeitgebers (OR 324)
+    - Arbeitgeber weist keine Arbeit zu
+  - Unverschuldete Verhinderung des Arbeitnehmers (OR 324a)
+    - Krankheit, Unfall
+    - Voraussetzung: Arbeitsverhältnis > 3 Monate
+
+[Art. 324](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_324)  
+[Art. 324a](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_324a)
+
+### Folie 2: Dauer der Lohnfortzahlung
+- **Annahmeverzug des Arbeitgebers**:
+  - Dauer: Solange keine Arbeit zugewiesen wird
+- **Unverschuldete Verhinderung**:
+  - Erstes Dienstjahr: 3 Wochen
+  - Danach: Verlängerung gem. Dienstjahre (OR 324a II)
+
+[Art. 324a II](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_324a)
+
+### Folie 3: Ferienanordnung durch Arbeitgeber
+- **Recht des Arbeitgebers**:
+  - Bestimmung des Ferienzeitpunkts (OR 329c II)
+  - Rücksichtnahme auf Wünsche der Arbeitnehmer
+- **Betriebsferien**:
+  - Anordnung zulässig bei gerechtfertigten betrieblichen Gründen
+
+[Art. 329c II](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_329c)
+
+### Folie 4: Vorzeitige Ferienbuchung
+- **Risiko der Arbeitnehmerin**:
+  - Buchung ohne Zusicherung des Arbeitgebers
+  - Verlangen nach Änderung nur bei verbleibendem Ferienguthaben möglich
+
+### Folie 5: Vertragsverletzungen und Reaktionen
+- **Zwischenzeugnis**:
+  - Schlechterfüllung → Anspruch auf korrektes Zeugnis
+- **Verspätete Lohnzahlung**:
+  - Zahlungsverzug → Inkasso, Verzugszinsen, Schadenersatz
+- **Arbeiten ausserhalb des Pflichtenhefts**:
+  - Ablehnung zulässig, außer bei Notlagen
+- **Kein Arbeitsplatz**:
+  - Annahmeverzug → Lohnanspruch
+
+[Art. 323 I](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_323)
+
+### Folie 6: Kündigung wegen Mutterschaft
+- **Ansprüche der Klägerin**:
+  - Diskriminierungsfeststellung
+  - Entschädigung wegen diskriminierender Kündigung
+- **Argumentation des Arbeitgebers**:
+  - Leistungsminderung und unverhältnismäßige Absenzen
+
+### Folie 7: Lohnfortzahlung bei Krankheit
+- **Lungenentzündung im ersten Dienstjahr**:
+  - Lohnfortzahlung: 3 Wochen (OR 324a II)
+- **Krankheit nach 10 Tagen**:
+  - Keine Lohnfortzahlungspflicht bei Arbeitsverhältnis < 3 Monate (OR 324a I)
+
+[Art. 324a I](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_324a)
+
+---
+
+## Teil 2: Prezitext
+
+### Folie 1
+| Text für den Referent | Wichtiger Begriff | Analogie | Interaktionsfragen |
+|-----------------------|-------------------|----------|--------------------|
+| **Grundsätzlich gilt: Ohne Arbeit kein Lohn**. Es gibt aber zwei wichtige Ausnahmen. **Erstens**, wenn der Arbeitgeber keine Arbeit zuweist, spricht man von **Annahmeverzug** (OR 324). **Zweitens**, wenn der Arbeitnehmer **unverschuldet verhindert** ist (z. B. Krankheit), besteht ein Lohnanspruch (OR 324a). Voraussetzung ist jedoch, dass das Arbeitsverhältnis mehr als drei Monate dauert. | Annahmeverzug | Ein Handwerker, der seine Werkzeuge nicht zur Verfügung hat, kann trotzdem seinen Lohn verlangen, weil er arbeitsbereit ist. | Haben Sie schon einmal erlebt, dass Ihr Arbeitgeber Ihnen keine Arbeit zugewiesen hat? Wie sind Sie damit umgegangen? (Mögliche Antworten: Gespräche mit dem Arbeitgeber, Lohnfortzahlung eingefordert) |
+
+### Folie 2
+| Text für den Referent | Wichtiger Begriff | Analogie | Interaktionsfragen |
+|-----------------------|-------------------|----------|--------------------|
+| **Beim Annahmeverzug des Arbeitgebers** dauert die Lohnfortzahlung so lange, wie der Arbeitgeber keine Arbeit zuweist. Bei unverschuldeter Verhinderung ist die Lohnfortzahlung im **ersten Dienstjahr auf drei Wochen** begrenzt, danach entsprechend länger (OR 324a II). | Unverschuldete Verhinderung | Ein Schüler erhält weiterhin Taschengeld, auch wenn er krank ist, solange die Eltern zustimmen. | Wie lange dauert die Lohnfortzahlung bei unverschuldeter Verhinderung im ersten Dienstjahr? (Antwort: 3 Wochen) |
+
+### Folie 3
+| Text für den Referent | Wichtiger Begriff | Analogie | Interaktionsfragen |
+|-----------------------|-------------------|----------|--------------------|
+| Der Arbeitgeber darf den Zeitpunkt der Ferien bestimmen (OR 329c II). Dabei soll er auf die Wünsche der Arbeitnehmer Rücksicht nehmen. **Betriebsferien** sind zulässig, wenn betriebliche Gründe überwiegen. | Betriebsferien | Eine Schulklasse muss gemeinsam Ferien machen, wenn die Schule geschlossen ist. | Können Sie Beispiele nennen, bei denen Ihr Arbeitgeber Betriebsferien angeordnet hat? Wie hat sich das auf Ihre Planung ausgewirkt? (Mögliche Antworten: Urlaub umgeplant, keine Konflikte) |
+
+### Folie 4
+| Text für den Referent | Wichtiger Begriff | Analogie | Interaktionsfragen |
+|-----------------------|-------------------|----------|--------------------|
+| Wenn Arbeitnehmer wie **Nicole Ritz** ohne Zusicherung des Arbeitgebers Ferien buchen, handeln sie auf eigenes Risiko. Nicole kann nicht verlangen, die Ferienreise im März statt im August zu machen. Nur bei verbleibendem **Ferienguthaben** könnte sie dies verlangen. | Ferienguthaben | Ein Kind kann nur dann früher in den Urlaub fahren, wenn es seine Hausaufgaben für diese Zeit schon gemacht hat. | Haben Sie schon einmal Ferien gebucht, ohne die Zustimmung Ihres Arbeitgebers einzuholen? Was ist passiert? (Mögliche Antworten: Urlaub verschoben, Konflikt mit Arbeitgeber) |
+
+### Folie 5
+| Text für den Referent | Wichtiger Begriff | Analogie | Interaktionsfragen |
+|-----------------------|-------------------|----------|--------------------|
+| **Zwischenzeugnis**: Wenn es nicht den Leistungen entspricht, kann der Arbeitnehmer ein korrektes Zeugnis verlangen. **Verspätete Lohnzahlung**: Ab dem 26. des Monats kann der Arbeitnehmer den Arbeitgeber betreiben und Verzugszinsen verlangen (OR 323). **Arbeiten ausserhalb des Pflichtenhefts**: Der Arbeitnehmer muss diese nicht übernehmen, außer bei Notlagen. **Kein Arbeitsplatz**: Der Arbeitgeber kommt in Annahmeverzug, und der Arbeitnehmer kann Lohn verlangen. | Schlechterfüllung | Ein Schüler kann eine neue Bewertung fordern, wenn er eine schlechte Note ohne Grund erhält. | Haben Sie schon einmal ein ungenaues Arbeitszeugnis erhalten? Wie haben Sie reagiert? (Mögliche Antworten: Gespräch mit dem Arbeitgeber, Korrektur gefordert) |
+
+### Folie 6
+| Text für den Referent | Wichtiger Begriff | Analogie | Interaktionsfragen |
+|-----------------------|-------------------|----------|--------------------|
+| **Diskriminierungsklage**: Die Klägerin kann Diskriminierung feststellen lassen und eine Entschädigung verlangen. **Arbeitgeber-Argumentation**: Der Arbeitgeber könnte behaupten, die Leistungen der Chemikerin seien seit der Schwangerschaft erheblich gesunken und die Absenzen wären zu lange gewesen. | Diskriminierung | Ein Schüler kann Entschädigung verlangen, wenn er wegen seiner Herkunft ungerecht behandelt wird. | Kennen Sie Fälle von Diskriminierung am Arbeitsplatz? Wie wurden diese Fälle gelöst? (Mögliche Antworten: Klage eingereicht, einvernehmliche Lösung gefunden) |
+
+### Folie 7
+| Text für den Referent                                                                                                                                                                                                                                | Wichtiger Begriff | Analogie                                                                                            | Interaktionsfragen                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lungenentzündung im ersten Dienstjahr**: Frau Schnidrig hat Anspruch auf Lohnfortzahlung für drei Wochen (OR 324a II). **Krankheit nach 10 Tagen**: Bei Arbeitsverhältnissen unter drei Monaten besteht keine Lohnfortzahlungspflicht (OR 324a I). | Lohnfortzahlung   | Ein Schüler erhält weiterhin Taschengeld, wenn er krank ist, solange er regelmäßig zur Schule geht. | Wie würden Sie sich fühlen, wenn Sie kurz nach Arbeitsbeginn krank werden und keinen Lohn erhalten? (Mögliche Antworten: Verunsicherung, Verständnis für Regelung) |
+s## Teil 1: Präsentationsfolien
+
+### Folie 1: Überstundenarbeit
+- **Pflicht zur Überstundenarbeit** (Nebenpflicht)
+- Remo Schär weigert sich, am Samstag für einen dringenden Auftrag zu arbeiten.
+- **Verpflichtung zur Überstundenarbeit** bei dringendem betrieblichen Bedarf.
+
+### Folie 2: Lohnzahlungspflicht
+- **Lohnzahlungspflicht** (Hauptpflicht)
+- Sandra Baumann hat am 14. Mai den Aprillohn nicht erhalten.
+- **Zahlungsverzug** → Anspruch auf Lohn und Verzugszinsen.
+
+### Folie 3: Geheimhaltungspflicht
+- **Geheimhaltungspflicht** (Nebenpflicht)
+- Kurt Bless erzählt vertrauliche Informationen über ein neues Produkt.
+- **Verstoß gegen die Vertraulichkeit** → mögliche Sanktionen.
+
+### Folie 4: Schutz der Persönlichkeit
+- **Schutz der Persönlichkeit** (Nebenpflicht)
+- Aldo Romano fordert Schutz vor Mobbing durch Kollegen.
+- **Pflicht des Arbeitgebers** zur Sicherstellung eines Mobbing-freien Arbeitsumfelds.
+
+### Folie 5: Herausgabepflicht
+- **Herausgabepflicht** (Nebenpflicht)
+- Außendienstmitarbeiter Zehnder gibt seinem Chef 200 CHF von einem Kunden.
+- **Pflicht zur Übergabe** von Kundenzahlungen an den Arbeitgeber.
+
+### Folie 6: Befolgung von Weisungen
+- **Befolgung von Weisungen** (Nebenpflicht)
+- Assistent schreibt auf Wunsch der Chefin einen Brief um.
+- **Verpflichtung zur Umsetzung von Anweisungen** des Vorgesetzten.
+
+### Folie 7: Verbot der Schwarzarbeit
+- **Verbot der Schwarzarbeit** (Nebenpflicht)
+- Ruth Cullmann betreut eigene Kunden ohne Wissen des Arbeitgebers.
+- **Unzulässigkeit von Nebentätigkeiten** ohne Zustimmung des Arbeitgebers.
+
+### Folie 8: Arbeitspflicht
+- **Arbeitspflicht** (Hauptpflicht)
+- Paul Bürer bleibt am Mittwochnachmittag ohne Grund der Arbeit fern.
+- **Verweigerung der Arbeitsleistung** → keine Lohnzahlung für diese Zeit.
+
+### Folie 9: Schlechterfüllung durch Unsorgfalt
+- **Arbeitspflicht (Schlechterfüllung durch Unsorgfalt)** (Hauptpflicht)
+- Kurt Bless verursacht durch Feiern einen kostspieligen Fehler.
+- **Verantwortung für sorgfältige Arbeitsausführung** → mögliche Schadensersatzpflicht.
+
+---
+
+## Teil 2: Prezitext
+
+### Folie 1
+| Text für den Referent | Wichtiger Begriff | Analogie | Interaktionsfragen |
+|-----------------------|-------------------|----------|--------------------|
+| **Remo Schär weigert sich, am Samstag ausnahmsweise zur Arbeit zu erscheinen**, um einen dringenden Auftrag zu erledigen. Das verstößt gegen die Pflicht zur Überstundenarbeit, die als **Nebenpflicht** gilt. Arbeitnehmer müssen in Ausnahmefällen Überstunden leisten, insbesondere bei dringendem betrieblichem Bedarf. | Pflicht zur Überstundenarbeit | Ein Schüler muss manchmal länger lernen, wenn eine wichtige Prüfung bevorsteht. | Haben Sie schon einmal Überstunden abgelehnt? Was waren die Gründe und wie hat Ihr Arbeitgeber reagiert? (Mögliche Antworten: Persönliche Verpflichtungen, gesundheitliche Gründe) |
+
+### Folie 2
+| Text für den Referent | Wichtiger Begriff | Analogie | Interaktionsfragen |
+|-----------------------|-------------------|----------|--------------------|
+| **Sandra Baumann hat am 14. Mai den Aprillohn noch nicht erhalten**. Das verstößt gegen die **Lohnzahlungspflicht**, die eine Hauptpflicht des Arbeitgebers ist. Im Falle von Zahlungsverzug kann die Arbeitnehmerin Verzugszinsen verlangen und rechtliche Schritte einleiten. | Lohnzahlungspflicht | Ein Mieter kann Mietzinszinsen fordern, wenn der Vermieter die Mietsache verspätet zur Verfügung stellt. | Haben Sie schon einmal Ihren Lohn verspätet erhalten? Wie haben Sie die Situation gelöst? (Mögliche Antworten: Gespräch mit dem Arbeitgeber, rechtliche Schritte) |
+
+### Folie 3
+| Text für den Referent | Wichtiger Begriff | Analogie | Interaktionsfragen |
+|-----------------------|-------------------|----------|--------------------|
+| **Kurt Bless erzählt seinem Freund**, dass sein Arbeitgeber kurz vor der Markteinführung eines neuen Produkts steht. Dies verstößt gegen die **Geheimhaltungspflicht**, die als Nebenpflicht gilt. Arbeitnehmer müssen vertrauliche Informationen des Arbeitgebers schützen. | Geheimhaltungspflicht | Ein Geheimagent darf keine vertraulichen Informationen weitergeben, um die Mission zu schützen. | Haben Sie schon einmal versehentlich vertrauliche Informationen weitergegeben? Wie haben Sie das Problem gelöst? (Mögliche Antworten: Entschuldigung beim Arbeitgeber, zusätzliche Schulungen) |
+
+### Folie 4
+| Text für den Referent | Wichtiger Begriff | Analogie | Interaktionsfragen |
+|-----------------------|-------------------|----------|--------------------|
+| **Aldo Romano verlangt von seinem Vorgesetzten, dafür zu sorgen**, dass das Mobbing seiner Arbeitskollegen gegen ihn aufhört. Dies fällt unter den **Schutz der Persönlichkeit**, eine Nebenpflicht des Arbeitgebers. Der Arbeitgeber muss ein Arbeitsumfeld sicherstellen, das frei von Mobbing ist. | Schutz der Persönlichkeit | Ein Lehrer muss dafür sorgen, dass keine Schüler in seiner Klasse gemobbt werden. | Haben Sie jemals Mobbing am Arbeitsplatz erlebt oder beobachtet? Wie wurde es gelöst? (Mögliche Antworten: Gespräch mit Vorgesetzten, Mediation) |
+
+### Folie 5
+| Text für den Referent | Wichtiger Begriff | Analogie | Interaktionsfragen |
+|-----------------------|-------------------|----------|--------------------|
+| **Der Außendienstmitarbeiter Zehnder übergibt seinem Chef 200 CHF**, die er von einem Kunden erhalten hat. Das ist Teil der **Herausgabepflicht**, die eine Nebenpflicht darstellt. Arbeitnehmer müssen alle betrieblichen Einnahmen an den Arbeitgeber weiterleiten. | Herausgabepflicht | Ein Kassierer muss alle Einnahmen am Ende des Tages in die Kasse legen. | Haben Sie schon einmal betriebliche Einnahmen weitergeleitet? Gab es dabei Probleme oder Missverständnisse? (Mögliche Antworten: Klare Regelungen, Abrechnungsprobleme) |
+
+### Folie 6
+| Text für den Referent | Wichtiger Begriff | Analogie | Interaktionsfragen |
+|-----------------------|-------------------|----------|--------------------|
+| **Der Assistent schreibt auf Wunsch seiner Chefin einen Brief um**, obwohl er seine eigene Version besser findet. Das gehört zur **Befolgung von Weisungen**, eine Nebenpflicht der Arbeitnehmer. Sie müssen Anweisungen des Vorgesetzten ausführen, auch wenn sie anderer Meinung sind. | Befolgung von Weisungen | Ein Soldat muss die Befehle seines Vorgesetzten befolgen, auch wenn er anderer Meinung ist. | Haben Sie schon einmal Anweisungen befolgt, obwohl Sie eine bessere Lösung hatten? Wie ist die Situation verlaufen? (Mögliche Antworten: Diskussion mit Vorgesetzten, Akzeptanz der Anweisung) |
+
+### Folie 7
+| Text für den Referent | Wichtiger Begriff | Analogie | Interaktionsfragen |
+|-----------------------|-------------------|----------|--------------------|
+| **Ruth Cullmann ist bei einem Treuhänder angestellt**. Ohne dessen Wissen betreut sie in der Freizeit eigene Kunden. Dies verstößt gegen das **Verbot der Schwarzarbeit**, eine Nebenpflicht. Arbeitnehmer dürfen keine Konkurrenzgeschäfte betreiben. | Verbot der Schwarzarbeit | Ein Fußballspieler darf nicht ohne Erlaubnis für einen anderen Verein spielen. | Kennen Sie jemanden, der nebenberuflich gearbeitet hat? War das erlaubt oder gab es Probleme? (Mögliche Antworten: Genehmigung des Arbeitgebers, Konflikte) |
+
+### Folie 8
+| Text für den Referent | Wichtiger Begriff | Analogie | Interaktionsfragen |
+|-----------------------|-------------------|----------|--------------------|
+| **Paul Bürer macht am Mittwochnachmittag "blau"**, d.h., er bleibt ohne Grund der Arbeit fern. Das verletzt die **Arbeitspflicht**, eine Hauptpflicht. Der Arbeitgeber muss für diese Zeit keinen Lohn zahlen. | Arbeitspflicht | Ein Schüler muss in der Schule anwesend sein, sonst bekommt er keine Anwesenheitspunkte. | Haben Sie schon einmal "blau" gemacht? Was waren die Konsequenzen? (Mögliche Antworten: Abmahnung, Lohnabzug) |
+
+### Folie 9
+| Text für den Referent                                                                                                                                                                                                                                                                                                                                                                | Wichtiger Begriff                  | Analogie                                                                                                             | Interaktionsfragen                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Weil Kurt Bless vom Dienstag auf den Mittwoch die ganze Nacht gefeiert hat**, passiert ihm ein Fehler, der den Arbeitgeber mehrere Tausend Franken kostet. Dies ist eine **Schlechterfüllung durch Unsorgfalt** und verletzt die Arbeitspflicht, eine Hauptpflicht. Der Arbeitnehmer ist verantwortlich für sorgfältige Arbeitsausführung und kann schadensersatzpflichtig werden. | Schlechterfüllung durch Unsorgfalt | Ein Koch, der die Anweisungen nicht befolgt, kann dafür verantwortlich gemacht werden, wenn das Essen schlecht wird. | Haben Sie schon einmal durch eigene Unachtsamkeit einen Fehler gemacht? Wie haben Sie die Situation gemeistert? (Mögliche Antworten: Entschuldigung, Schadensbehebung) |
