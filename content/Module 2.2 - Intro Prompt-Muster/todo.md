@@ -1,1 +1,0 @@
-Please provide me with the textbook chapter and the educational content (theory and assignments) as plain text so I can review them and generate the evaluation according to the output format you provided. 
